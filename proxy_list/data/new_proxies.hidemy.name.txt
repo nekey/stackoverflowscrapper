@@ -1,0 +1,3384 @@
+158.69.77.48	8080
+  Canada Montréal
+800 мс
+HTTP, HTTPS	Средняя	2 минуты
+198.50.240.23	1096
+  Canada Montréal
+4220 мс
+SOCKS4, SOCKS5	Высокая	2 минуты
+85.226.127.163	45554
+  Sweden Kalmar
+380 мс
+SOCKS5	Высокая	2 минуты
+177.67.82.80	8080
+  Brazil Franca
+5100 мс
+HTTPS	Высокая	3 минуты
+149.56.147.33	8080
+  Canada Montréal
+5100 мс
+HTTPS	Высокая	3 минуты
+61.7.228.51	8080
+  Thailand Lampang
+3580 мс
+HTTP	Высокая	3 минуты
+188.226.203.244	3128
+  Netherlands Amsterdam
+1660 мс
+HTTPS	Высокая	3 минуты
+192.99.190.182	8080
+  Canada Montréal
+1620 мс
+HTTP	Средняя	3 минуты
+144.217.189.250	3128
+  Canada Beauharnois
+5100 мс
+HTTPS	Высокая	3 минуты
+177.67.82.94	3128
+  Brazil Franca
+5100 мс
+HTTPS	Высокая	3 минуты
+77.73.65.165	8080
+  Russian Federation
+4120 мс
+HTTP	Средняя	3 минуты
+144.217.130.111	8080
+  Canada Beauharnois
+5100 мс
+HTTPS	Высокая	3 минуты
+149.56.147.46	80
+  Canada Montréal
+1360 мс
+HTTPS	Высокая	3 минуты
+158.69.157.32	8080
+  Canada Montréal
+5100 мс
+HTTPS	Высокая	3 минуты
+5.39.9.93	3128
+  France
+4140 мс
+HTTPS	Высокая	3 минуты
+131.221.45.70	8080
+  Brazil
+3780 мс
+HTTPS	Высокая	3 минуты
+200.229.195.169	8080
+  Brazil
+1260 мс
+HTTP, HTTPS	Средняя	3 минуты
+52.17.165.9	3128
+  Ireland Dublin
+2600 мс
+HTTP	Средняя	3 минуты
+47.88.149.63	80
+  Singapore
+2300 мс
+HTTP	Высокая	3 минуты
+177.54.147.140	8080
+  Brazil
+5100 мс
+HTTP, HTTPS	Средняя	3 минуты
+177.67.84.135	8080
+  Brazil Franca
+1180 мс
+HTTP, HTTPS	Средняя	3 минуты
+149.56.226.28	8080
+  Canada Montréal
+2020 мс
+HTTPS	Высокая	3 минуты
+200.229.193.112	8080
+  Brazil
+1240 мс
+HTTP, HTTPS	Средняя	3 минуты
+177.67.82.20	8080
+  Brazil Franca
+2240 мс
+HTTP, HTTPS	Средняя	3 минуты
+149.56.255.17	8080
+  Canada Montréal
+960 мс
+HTTPS	Высокая	3 минуты
+68.115.227.34	3128
+  United States
+700 мс
+HTTP	Средняя	3 минуты
+89.38.149.185	3128
+  France Paris
+500 мс
+HTTP, HTTPS	Средняя	3 минуты
+177.67.81.11	3128
+  Brazil Franca
+2360 мс
+HTTP, HTTPS	Средняя	3 минуты
+198.50.240.23	8080
+  Canada Montréal
+2680 мс
+HTTP, HTTPS	Средняя	3 минуты
+134.213.221.181	4444
+  United Kingdom London
+380 мс
+HTTPS	Высокая	3 минуты
+83.219.142.133	3128
+  Russian Federation Kaliningrad
+4100 мс
+HTTP	Высокая	3 минуты
+177.67.81.212	80
+  Brazil Franca
+1760 мс
+HTTP, HTTPS	Средняя	3 минуты
+206.128.191.77	8008
+  United States Sterling
+2320 мс
+HTTP, HTTPS	Высокая	3 минуты
+201.16.140.120	8080
+  Brazil
+1240 мс
+HTTP, HTTPS	Средняя	3 минуты
+144.217.96.81	3128
+  Canada Beauharnois
+640 мс
+HTTP, HTTPS	Средняя	3 минуты
+177.67.81.97	8080
+  Brazil Franca
+1220 мс
+HTTP, HTTPS	Средняя	3 минуты
+54.251.152.131	2222
+  Singapore Singapore
+2040 мс
+HTTPS	Высокая	3 минуты
+52.8.41.170	4444
+  United States San Jose
+2420 мс
+HTTPS	Высокая	3 минуты
+191.96.43.23	8080
+  United States Chicago
+660 мс
+HTTP, HTTPS	Средняя	3 минуты
+94.79.182.109	80
+  Germany Remscheid
+1700 мс
+HTTP	Высокая	3 минуты
+206.128.191.27	8008
+  United States Sterling
+720 мс
+HTTP, HTTPS	Высокая	3 минуты
+89.17.42.59	3128
+  Russian Federation Moscow
+1200 мс
+HTTP	Средняя	3 минуты
+52.8.172.72	4444
+  United States San Jose
+1120 мс
+HTTPS	Высокая	3 минуты
+138.197.148.203	80
+  Canada Toronto
+680 мс
+HTTP	Средняя	3 минуты
+162.13.136.97	3130
+  United Kingdom
+360 мс
+HTTPS	Высокая	3 минуты
+162.13.136.29	3129
+  United Kingdom
+360 мс
+HTTPS	Высокая	3 минуты
+162.13.141.182	3129
+  United Kingdom
+360 мс
+HTTPS	Высокая	3 минуты
+162.13.166.149	3129
+  United Kingdom
+360 мс
+HTTPS	Высокая	3 минуты
+207.99.118.74	8080
+  United States Cedar Knolls
+580 мс
+HTTP	Средняя	3 минуты
+134.213.158.212	4444
+  United Kingdom
+400 мс
+HTTPS	Высокая	3 минуты
+77.73.66.26	8080
+  Russian Federation
+380 мс
+HTTP, HTTPS	Средняя	3 минуты
+94.177.242.85	8080
+  France Paris
+340 мс
+HTTP, HTTPS	Средняя	3 минуты
+134.213.214.187	3129
+  United Kingdom London
+400 мс
+HTTPS	Высокая	3 минуты
+134.213.208.187	4444
+  United Kingdom London
+360 мс
+HTTPS	Высокая	3 минуты
+134.213.62.13	4444
+  United Kingdom Saint Neots
+380 мс
+HTTPS	Высокая	3 минуты
+47.90.90.135	8081
+  Hong Kong
+2620 мс
+HTTP	Высокая	3 минуты
+103.14.8.239	8080
+  Thailand Chatuchak
+1140 мс
+HTTP, HTTPS	Высокая	3 минуты
+175.182.64.89	80
+  Taiwan Taipei
+1460 мс
+HTTP	Высокая	3 минуты
+31.221.37.250	80
+  United Kingdom London
+1800 мс
+HTTP	Средняя	3 минуты
+37.239.240.14	80
+  Iraq
+940 мс
+HTTP	Высокая	3 минуты
+168.128.29.75	80
+  United States
+5060 мс
+HTTP	Высокая	5 минут
+151.252.120.177	8080
+  United Kingdom London
+460 мс
+HTTP	Высокая	6 минут
+5.135.166.108	28861
+  France
+3780 мс
+SOCKS4, SOCKS5	Высокая	6 минут
+85.26.146.169	80
+  Russian Federation Moscow
+160 мс
+HTTP	Высокая	6 минут
+112.214.73.253	80
+  Korea
+2480 мс
+HTTP	Высокая	2 минуты
+192.3.138.182	1080
+  United States Buffalo
+2000 мс
+HTTP	Высокая	2 минуты
+31.220.58.61	8080
+  United States
+900 мс
+HTTP, HTTPS	Средняя	2 минуты
+206.128.191.27	8008
+  United States Sterling
+2700 мс
+HTTP, HTTPS	Высокая	2 минуты
+177.67.81.69	80
+  Brazil Franca
+900 мс
+HTTP, HTTPS	Средняя	2 минуты
+89.17.42.59	3128
+  Russian Federation Moscow
+240 мс
+HTTP	Средняя	2 минуты
+177.67.81.69	8080
+  Brazil Franca
+860 мс
+HTTP, HTTPS	Средняя	2 минуты
+77.89.240.126	80
+  Moldova Chisinau
+540 мс
+HTTP	Средняя	2 минуты
+177.67.81.97	8080
+  Brazil Franca
+880 мс
+HTTP, HTTPS	Средняя	2 минуты
+200.229.202.72	80
+  Brazil
+4340 мс
+HTTP	Средняя	2 минуты
+96.44.150.137	1080
+  United States Los Angeles
+1180 мс
+HTTP	Высокая	2 минуты
+177.93.106.221	8080
+  Brazil
+1160 мс
+HTTP, HTTPS	Средняя	2 минуты
+155.94.193.243	1080
+  United States Los Angeles
+3640 мс
+HTTP	Высокая	2 минуты
+69.12.92.3	1080
+  United States Los Angeles
+960 мс
+HTTP	Высокая	2 минуты
+96.44.184.155	1080
+  United States Los Angeles
+960 мс
+HTTP	Высокая	2 минуты
+5.2.69.104	1080
+  Netherlands
+1380 мс
+HTTP	Высокая	2 минуты
+5.2.69.141	1080
+  Netherlands
+980 мс
+HTTP	Высокая	2 минуты
+192.3.138.181	1080
+  United States Buffalo
+2900 мс
+HTTP	Высокая	2 минуты
+192.3.138.178	1080
+  United States Buffalo
+2880 мс
+HTTP	Высокая	2 минуты
+217.182.158.159	80
+  United Kingdom
+380 мс
+HTTP, HTTPS	Средняя	2 минуты
+149.202.198.179	8080
+  France
+380 мс
+HTTP, HTTPS	Средняя	2 минуты
+175.182.64.89	80
+  Taiwan Taipei
+1340 мс
+HTTP	Высокая	2 минуты
+89.38.149.185	3128
+  France Paris
+400 мс
+HTTP, HTTPS	Средняя	2 минуты
+5.2.69.102	1080
+  Netherlands
+360 мс
+HTTP	Высокая	2 минуты
+77.73.66.136	8080
+  Russian Federation
+280 мс
+HTTP, HTTPS	Средняя	2 минуты
+177.67.86.122	8080
+  Brazil Franca
+1160 мс
+HTTP, HTTPS	Средняя	2 минуты
+177.67.86.120	8080
+  Brazil Franca
+840 мс
+HTTP, HTTPS	Средняя	2 минуты
+177.67.82.116	80
+  Brazil Franca
+1200 мс
+HTTP, HTTPS	Средняя	2 минуты
+144.217.16.78	80
+  Canada Beauharnois
+1860 мс
+HTTP, HTTPS	Средняя	2 минуты
+51.15.46.137	8080
+  Netherlands Haarlem
+2500 мс
+HTTP, HTTPS	Средняя	2 минуты
+5.2.69.144	1080
+  Netherlands
+1860 мс
+HTTP	Высокая	2 минуты
+177.67.81.97	80
+  Brazil Franca
+840 мс
+HTTP, HTTPS	Средняя	2 минуты
+158.69.157.32	8080
+  Canada Montréal
+5100 мс
+HTTPS	Высокая	2 минуты
+5.2.69.139	1080
+  Netherlands
+2080 мс
+HTTP	Высокая	2 минуты
+192.241.186.137	8080
+  United States New York
+580 мс
+HTTP, HTTPS	Средняя	2 минуты
+144.217.189.250	80
+  Canada Beauharnois
+5100 мс
+HTTPS	Высокая	2 минуты
+103.42.214.191	8080
+  Hong Kong Hong Kong
+2940 мс
+HTTP	Средняя	2 минуты
+113.252.159.5	80
+  Hong Kong Kwun Tong
+1560 мс
+HTTP	Высокая	2 минуты
+158.69.77.48	8080
+  Canada Montréal
+560 мс
+HTTP, HTTPS	Средняя	2 минуты
+144.217.16.78	3128
+  Canada Beauharnois
+820 мс
+HTTP, HTTPS	Средняя	2 минуты
+196.196.3.164	1080
+  Seychelles Mahé
+1080 мс
+HTTP	Высокая	2 минуты
+177.67.81.212	80
+  Brazil Franca
+2520 мс
+HTTP, HTTPS	Средняя	2 минуты
+138.197.23.220	8080
+  United States New York
+1040 мс
+HTTP, HTTPS	Средняя	2 минуты
+149.56.147.33	8080
+  Canada Montréal
+2080 мс
+HTTPS	Высокая	2 минуты
+94.177.242.85	3128
+  France Paris
+260 мс
+HTTP, HTTPS	Средняя	2 минуты
+50.93.200.112	1080
+  United States Tampa
+940 мс
+HTTP	Высокая	2 минуты
+212.126.113.179	80
+  Iraq Sulaymaniyah
+400 мс
+HTTP	Высокая	2 минуты
+37.239.240.14	80
+  Iraq
+780 мс
+HTTP	Высокая	2 минуты
+144.217.96.81	8080
+  Canada Beauharnois
+3460 мс
+HTTP, HTTPS	Средняя	2 минуты
+177.67.86.116	8080
+  Brazil Franca
+860 мс
+HTTP, HTTPS	Средняя	2 минуты
+177.67.81.69	3128
+  Brazil Franca
+1200 мс
+HTTP, HTTPS	Средняя	2 минуты
+144.217.16.78	8799
+  Canada Beauharnois
+940 мс
+HTTP, HTTPS	Средняя	2 минуты
+177.67.81.11	8080
+  Brazil Franca
+2220 мс
+HTTP, HTTPS	Средняя	2 минуты
+77.73.65.205	80
+  Russian Federation
+140 мс
+HTTP	Средняя	2 минуты
+173.212.204.167	8080
+  United States Pilot Mountain
+360 мс
+HTTP, HTTPS	Средняя	2 минуты
+167.114.17.152	80
+  Canada Montréal
+500 мс
+HTTP, HTTPS	Средняя	2 минуты
+198.50.240.23	80
+  Canada Montréal
+580 мс
+HTTP	Средняя	2 минуты
+192.95.55.60	80
+  Canada Montréal
+660 мс
+HTTP, HTTPS	Средняя	2 минуты
+96.44.184.154	1080
+  United States Los Angeles
+960 мс
+HTTP	Высокая	2 минуты
+5.2.69.142	1080
+  Netherlands
+1440 мс
+HTTP	Высокая	2 минуты
+119.81.71.27	80
+  Singapore Singapore
+820 мс
+HTTP, HTTPS	Высокая	2 минуты
+155.94.193.245	1080
+  United States Los Angeles
+1480 мс
+HTTP	Высокая	2 минуты
+89.38.149.185	80
+  France Paris
+580 мс
+HTTP, HTTPS	Средняя	2 минуты
+167.114.82.173	8799
+  Canada Montréal
+3840 мс
+HTTPS	Высокая	2 минуты
+185.106.121.94	1080
+  Netherlands
+340 мс
+HTTP	Высокая	2 минуты
+208.92.94.135	1080
+  United States Los Angeles
+1460 мс
+HTTP	Высокая	2 минуты
+191.242.233.146	3128
+  Brazil Japeri
+5100 мс
+HTTP	Средняя	2 минуты
+94.177.242.85	8080
+  France Paris
+420 мс
+HTTP, HTTPS	Средняя	2 минуты
+177.11.55.68	8080
+  Brazil
+1460 мс
+HTTP, HTTPS	Средняя	2 минуты
+77.73.66.26	8080
+  Russian Federation
+360 мс
+HTTP, HTTPS	Средняя	2 минуты
+77.73.65.205	8080
+  Russian Federation
+4500 мс
+HTTP, HTTPS	Средняя	2 минуты
+177.54.147.140	8080
+  Brazil
+1680 мс
+HTTP, HTTPS	Средняя	2 минуты
+177.67.82.80	3128
+  Brazil Franca
+920 мс
+HTTP, HTTPS	Средняя	2 минуты
+50.93.201.118	1080
+  United States Tampa
+2760 мс
+HTTP	Высокая	2 минуты
+103.14.8.239	8080
+  Thailand Chatuchak
+1180 мс
+HTTP, HTTPS	Высокая	2 минуты
+52.91.194.35	80
+  United States Ashburn
+620 мс
+HTTP	Высокая	2 минуты
+177.67.82.102	8080
+  Brazil Franca
+1200 мс
+HTTP, HTTPS	Средняя	2 минуты
+155.94.193.242	1080
+  United States Los Angeles
+1520 мс
+HTTP	Высокая	2 минуты
+96.47.235.5	1080
+  United States Miami
+1380 мс
+HTTP	Высокая	2 минуты
+77.73.66.136	80
+  Russian Federation
+360 мс
+HTTP, HTTPS	Средняя	2 минуты
+154.16.127.141	8080
+  United States Denver
+660 мс
+HTTP, HTTPS	Средняя	2 минуты
+192.3.138.179	1080
+  United States Buffalo
+2780 мс
+HTTP	Высокая	2 минуты
+206.128.191.77	8008
+  United States Sterling
+1860 мс
+HTTP, HTTPS	Высокая	2 минуты
+124.124.1.178	3128
+  India Mumbai
+5100 мс
+HTTP	Средняя	2 минуты
+5.2.69.106	1080
+  Netherlands
+460 мс
+HTTP	Высокая	2 минуты
+5.2.69.101	1080
+  Netherlands
+460 мс
+HTTP	Высокая	2 минуты
+177.67.86.120	3128
+  Brazil Franca
+1200 мс
+HTTP, HTTPS	Средняя	2 минуты
+47.88.149.63	80
+  Singapore
+3260 мс
+HTTP	Высокая	2 минуты
+177.54.144.209	80
+  Brazil
+940 мс
+HTTP, HTTPS	Средняя	2 минуты
+173.254.203.213	1080
+  United States Los Angeles
+1520 мс
+HTTP	Высокая	2 минуты
+93.190.253.50	80
+  Germany Weinheim
+260 мс
+HTTP	Высокая	2 минуты
+119.81.71.27	25
+  Singapore Singapore
+720 мс
+HTTP, HTTPS	Высокая	2 минуты
+149.56.250.47	80
+  Canada Montréal
+5100 мс
+HTTP, HTTPS	Средняя	2 минуты
+158.69.73.162	8080
+  Canada Montréal
+480 мс
+HTTP, HTTPS	Средняя	2 минуты
+69.12.92.6	1080
+  United States Los Angeles
+2080 мс
+HTTP	Высокая	2 минуты
+173.254.203.222	1080
+  United States Los Angeles
+1080 мс
+HTTP	Высокая	2 минуты
+167.114.17.152	8080
+  Canada Montréal
+720 мс
+HTTP, HTTPS	Средняя	2 минуты
+119.81.71.27	8123
+  Singapore Singapore
+1000 мс
+HTTP, HTTPS	Высокая	2 минуты
+185.22.172.196	8080
+  Russian Federation
+220 мс
+HTTP, HTTPS	Средняя	2 минуты
+212.237.6.142	8080
+  Denmark
+420 мс
+HTTP, HTTPS	Средняя	2 минуты
+149.56.255.17	3128
+  Canada Montréal
+5100 мс
+HTTPS	Высокая	2 минуты
+144.217.248.180	8799
+  Canada Beauharnois
+3320 мс
+HTTP	Высокая	2 минуты
+77.73.65.165	3128
+  Russian Federation
+400 мс
+HTTP, HTTPS	Средняя	2 минуты
+177.54.147.140	3128
+  Brazil
+2960 мс
+HTTP	Средняя	2 минуты
+174.138.86.26	8080
+  United States San Diego
+3860 мс
+HTTPS	Высокая	2 минуты
+103.75.117.187	8080
+  Hong Kong Hong Kong
+1760 мс
+HTTP	Средняя	2 минуты
+47.90.90.135	8081
+  Hong Kong
+2580 мс
+HTTP	Высокая	2 минуты
+85.26.146.169	80
+  Russian Federation Moscow
+140 мс
+HTTP	Высокая	2 минуты
+144.217.248.180	8080
+  Canada Beauharnois
+1780 мс
+HTTP, HTTPS	Высокая	2 минуты
+200.229.202.93	80
+  Brazil
+2500 мс
+HTTPS	Высокая	2 минуты
+172.80.118.223	1080
+  United States Los Angeles
+3800 мс
+HTTP	Высокая	2 минуты
+149.56.147.46	8080
+  Canada Montréal
+1600 мс
+HTTP, HTTPS	Средняя	2 минуты
+138.197.23.220	3128
+  United States New York
+1440 мс
+HTTPS	Высокая	2 минуты
+192.95.55.60	8080
+  Canada Montréal
+3380 мс
+HTTP, HTTPS	Средняя	2 минуты
+149.56.147.46	3128
+  Canada Montréal
+1920 мс
+HTTPS	Высокая	2 минуты
+198.50.240.23	3128
+  Canada Montréal
+1880 мс
+HTTPS	Высокая	2 минуты
+198.50.240.23	8080
+  Canada Montréal
+2400 мс
+HTTP	Средняя	2 минуты
+12.145.115.226	3128
+  United States Graceville
+2920 мс
+HTTP	Средняя	2 минуты
+177.67.82.20	8080
+  Brazil Franca
+3500 мс
+HTTP, HTTPS	Средняя	2 минуты
+192.95.4.14	3128
+  Canada Montréal
+3600 мс
+HTTP, HTTPS	Средняя	2 минуты
+138.201.63.125	808
+  Germany
+1400 мс
+HTTP, HTTPS	Высокая	2 минуты
+200.229.195.169	8080
+  Brazil
+1280 мс
+HTTP, HTTPS	Средняя	2 минуты
+177.67.82.116	3128
+  Brazil Franca
+2420 мс
+HTTP, HTTPS	Средняя	2 минуты
+177.67.82.80	80
+  Brazil Franca
+2020 мс
+HTTP, HTTPS	Средняя	2 минуты
+192.3.138.180	1080
+  United States Buffalo
+3100 мс
+HTTP	Высокая	3 минуты
+177.67.81.97	3128
+  Brazil Franca
+1860 мс
+HTTP, HTTPS	Средняя	3 минуты
+200.229.202.94	8080
+  Brazil
+1280 мс
+HTTP, HTTPS	Средняя	3 минуты
+5.2.69.149	1080
+  Netherlands
+3940 мс
+HTTP	Высокая	3 минуты
+5.2.69.145	1080
+  Netherlands
+2860 мс
+HTTP	Высокая	3 минуты
+52.33.102.98	80
+  United States Boardman
+1000 мс
+HTTP, HTTPS	Средняя	3 минуты
+68.115.227.34	3128
+  United States
+700 мс
+HTTP	Средняя	3 минуты
+200.229.202.94	80
+  Brazil
+1280 мс
+HTTP, HTTPS	Средняя	3 минуты
+177.54.144.209	8080
+  Brazil
+1320 мс
+HTTP, HTTPS	Средняя	3 минуты
+177.67.86.116	3128
+  Brazil Franca
+1240 мс
+HTTP, HTTPS	Средняя	3 минуты
+158.69.73.162	80
+  Canada Montréal
+1800 мс
+HTTP, HTTPS	Средняя	3 минуты
+177.67.82.97	80
+  Brazil Franca
+1260 мс
+HTTP, HTTPS	Средняя	3 минуты
+106.185.24.64	8080
+  Japan
+1460 мс
+HTTP	Средняя	3 минуты
+155.94.193.246	1080
+  United States Los Angeles
+1620 мс
+HTTP	Высокая	3 минуты
+155.94.193.244	1080
+  United States Los Angeles
+2060 мс
+HTTP	Высокая	3 минуты
+144.217.96.81	80
+  Canada Beauharnois
+2160 мс
+HTTP, HTTPS	Средняя	3 минуты
+177.67.81.97	8799
+  Brazil Franca
+1260 мс
+HTTP, HTTPS	Средняя	3 минуты
+177.67.82.97	3128
+  Brazil Franca
+1260 мс
+HTTP, HTTPS	Средняя	3 минуты
+208.92.94.189	1080
+  United States Los Angeles
+1220 мс
+HTTP	Высокая	3 минуты
+144.217.16.78	8080
+  Canada Beauharnois
+1180 мс
+HTTP, HTTPS	Средняя	3 минуты
+177.67.84.135	3128
+  Brazil Franca
+1240 мс
+HTTP, HTTPS	Средняя	3 минуты
+50.93.207.114	1080
+  United States Tampa
+2080 мс
+HTTP	Высокая	3 минуты
+177.67.84.135	80
+  Brazil Franca
+1300 мс
+HTTP, HTTPS	Средняя	3 минуты
+104.223.103.185	1080
+  United States Dallas
+1800 мс
+HTTP	Высокая	3 минуты
+5.2.69.137	1080
+  Netherlands
+2740 мс
+HTTP	Высокая	3 минуты
+5.2.69.134	1080
+  Netherlands
+2440 мс
+HTTP	Высокая	3 минуты
+5.2.69.132	1080
+  Netherlands
+2520 мс
+HTTP	Высокая	3 минуты
+50.93.197.98	1080
+  United States Tampa
+960 мс
+HTTP	Высокая	3 минуты
+196.196.3.162	1080
+  Seychelles Mahé
+2080 мс
+HTTP	Высокая	3 минуты
+144.217.103.15	8080
+  Canada Beauharnois
+680 мс
+HTTP, HTTPS	Средняя	3 минуты
+144.217.103.74	8080
+  Canada Beauharnois
+740 мс
+HTTP, HTTPS	Средняя	3 минуты
+191.96.43.23	8080
+  United States Chicago
+700 мс
+HTTP, HTTPS	Средняя	3 минуты
+67.205.161.27	8080
+  United States New York
+620 мс
+HTTP, HTTPS	Средняя	3 минуты
+185.82.203.44	1080
+  Netherlands Amsterdam
+1400 мс
+HTTP	Высокая	3 минуты
+192.161.56.165	1080
+  United States Los Angeles
+980 мс
+HTTP	Высокая	3 минуты
+158.69.77.48	80
+  Canada Montréal
+860 мс
+HTTP, HTTPS	Средняя	3 минуты
+173.254.203.214	1080
+  United States Los Angeles
+1380 мс
+HTTP	Высокая	3 минуты
+173.254.203.210	1080
+  United States Los Angeles
+1380 мс
+HTTP	Высокая	3 минуты
+149.56.226.28	80
+  Canada Montréal
+720 мс
+HTTP, HTTPS	Средняя	3 минуты
+149.56.226.28	3128
+  Canada Montréal
+760 мс
+HTTP, HTTPS	Средняя	3 минуты
+185.82.203.137	1080
+  Netherlands Amsterdam
+440 мс
+HTTP	Высокая	3 минуты
+67.205.159.165	8080
+  United States New York
+660 мс
+HTTP, HTTPS	Средняя	3 минуты
+96.47.235.6	1080
+  United States Miami
+1060 мс
+HTTP	Высокая	3 минуты
+96.47.235.3	1080
+  United States Miami
+1080 мс
+HTTP	Высокая	3 минуты
+72.11.151.12	1080
+  United States Los Angeles
+1200 мс
+HTTP	Высокая	3 минуты
+50.93.197.102	1080
+  United States Tampa
+940 мс
+HTTP	Высокая	3 минуты
+185.82.203.63	1080
+  Netherlands Amsterdam
+420 мс
+HTTP	Высокая	3 минуты
+185.82.203.230	1080
+  Netherlands Amsterdam
+480 мс
+HTTP	Высокая	3 минуты
+77.73.66.26	80
+  Russian Federation
+680 мс
+HTTP, HTTPS	Средняя	3 минуты
+185.106.121.95	1080
+  Netherlands
+440 мс
+HTTP	Высокая	3 минуты
+5.2.69.107	1080
+  Netherlands
+660 мс
+HTTP	Высокая	3 минуты
+179.61.233.38	8080
+  United States Chicago
+2480 мс
+HTTP	Средняя	3 минуты
+103.14.8.239	80
+  Thailand Chatuchak
+2020 мс
+HTTP, HTTPS	Высокая	3 минуты
+173.212.136.237	80
+  Canada Thornhill
+3120 мс
+HTTP	Высокая	3 минуты
+14.199.124.204	80
+  Hong Kong Central District
+1620 мс
+HTTP	Высокая	3 минуты
+128.199.213.209	8080
+  Singapore Singapore
+1240 мс
+HTTPS	Высокая	4 минуты
+139.59.102.94	8080
+  India Bangalore
+1240 мс
+HTTPS	Высокая	4 минуты
+52.8.41.170	4444
+  United States San Jose
+1120 мс
+HTTPS	Высокая	4 минуты
+62.100.204.113	3128
+  United Kingdom
+800 мс
+HTTPS	Высокая	4 минуты
+162.13.166.149	3129
+  United Kingdom
+440 мс
+HTTPS	Высокая	4 минуты
+195.12.173.17	3128
+  Lithuania
+520 мс
+HTTPS	Высокая	4 минуты
+47.88.84.111	3128
+  United States San Mateo
+1360 мс
+HTTPS	Высокая	4 минуты
+177.23.184.51	3128
+  Brazil
+1900 мс
+HTTPS	Высокая	4 минуты
+117.120.7.93	8080
+  Singapore
+1540 мс
+HTTP	Высокая	4 минуты
+162.13.136.97	3130
+  United Kingdom
+380 мс
+HTTPS	Высокая	4 минуты
+149.56.140.221	3128
+  Canada Montréal
+820 мс
+HTTPS	Высокая	4 минуты
+162.13.136.108	3129
+  United Kingdom
+380 мс
+HTTPS	Высокая	4 минуты
+94.177.196.11	3128
+  Italy Arezzo
+1260 мс
+HTTPS	Высокая	4 минуты
+75.114.77.34	8080
+  United States Tampa
+860 мс
+HTTPS	Высокая	4 минуты
+52.8.172.72	4444
+  United States San Jose
+1100 мс
+HTTPS	Высокая	4 минуты
+134.213.152.188	3129
+  United Kingdom
+380 мс
+HTTPS	Высокая	4 минуты
+134.213.62.13	3129
+  United Kingdom London
+400 мс
+HTTPS	Высокая	4 минуты
+134.213.221.181	4444
+  United Kingdom London
+380 мс
+HTTPS	Высокая	4 минуты
+134.213.208.193	4444
+  United Kingdom London
+400 мс
+HTTPS	Высокая	4 минуты
+134.213.62.13	4444
+  United Kingdom Saint Neots
+400 мс
+HTTPS	Высокая	4 минуты
+193.193.230.211	1080
+  Kazakstan
+760 мс
+SOCKS4	Высокая	4 минуты
+202.69.40.173	8080
+  Pakistan
+1040 мс
+HTTPS	Высокая	4 минуты
+103.239.52.41	1080
+  Cambodia
+2820 мс
+SOCKS4	Высокая	4 минуты
+62.182.51.114	1080
+  Russian Federation Kolomna
+140 мс
+SOCKS4	Высокая	4 минуты
+188.165.244.7	1080
+  France
+400 мс
+SOCKS4	Высокая	4 минуты
+82.211.60.230	3128
+  Germany
+380 мс
+HTTPS	Высокая	4 минуты
+88.99.174.139	3128
+  Germany
+340 мс
+HTTPS	Высокая	4 минуты
+162.13.136.29	3129
+  United Kingdom
+380 мс
+HTTPS	Высокая	4 минуты
+162.13.141.182	3129
+  United Kingdom
+380 мс
+HTTPS	Высокая	4 минуты
+134.213.158.212	4444
+  United Kingdom
+440 мс
+HTTPS	Высокая	4 минуты
+89.40.125.160	3128
+  Germany Frankfurt
+360 мс
+HTTPS	Высокая	4 минуты
+134.213.29.202	3124
+  United Kingdom
+380 мс
+HTTPS	Высокая	4 минуты
+134.213.214.187	3129
+  United Kingdom London
+380 мс
+HTTPS	Высокая	4 минуты
+134.213.208.187	4444
+  United Kingdom London
+380 мс
+HTTPS	Высокая	4 минуты
+46.101.233.131	3128
+  Germany Frankfurt
+420 мс
+HTTPS	Высокая	4 минуты
+194.8.51.253	8080
+  Ukraine
+300 мс
+HTTPS	Высокая	4 минуты
+178.33.42.158	3128
+  France
+420 мс
+HTTPS	Высокая	4 минуты
+213.178.39.59	1080
+  Russian Federation Togliatti
+160 мс
+SOCKS4	Высокая	4 минуты
+77.120.102.84	3128
+  Ukraine
+340 мс
+HTTPS	Высокая	4 минуты
+185.6.126.178	1080
+  Russian Federation Serpukhov
+180 мс
+SOCKS4	Высокая	4 минуты
+91.206.149.160	1080
+  Russian Federation Astrakhan
+320 мс
+SOCKS4	Высокая	4 минуты
+200.63.29.92	1080
+  Argentina Buenos Aires
+1600 мс
+SOCKS4	Высокая	4 минуты
+198.50.240.23	1096
+  Canada Montréal
+3840 мс
+SOCKS4, SOCKS5	Высокая	4 минуты
+43.252.74.62	1080
+  Indonesia Jakarta
+1400 мс
+SOCKS4	Высокая	4 минуты
+85.226.127.163	45554
+  Sweden Kalmar
+380 мс
+SOCKS5	Высокая	6 минут
+177.67.82.80	8080
+  Brazil Franca
+5100 мс
+HTTPS	Высокая	6 минут
+188.226.203.244	3128
+  Netherlands Amsterdam
+1660 мс
+HTTPS	Высокая	6 минут
+177.67.82.94	3128
+  Brazil Franca
+5100 мс
+HTTPS	Высокая	6 минут
+149.56.147.46	80
+  Canada Montréal
+1360 мс
+HTTPS	Высокая	6 минут
+5.39.9.93	3128
+  France
+4140 мс
+HTTPS	Высокая	6 минут
+131.221.45.70	8080
+  Brazil
+3780 мс
+HTTPS	Высокая	6 минут
+149.56.226.28	8080
+  Canada Montréal
+2020 мс
+HTTPS	Высокая	6 минут
+149.56.255.17	8080
+  Canada Montréal
+960 мс
+HTTPS	Высокая	6 минут
+54.251.152.131	2222
+  Singapore Singapore
+2040 мс
+HTTPS	Высокая	6 минут
+5.135.166.108	28861
+  France
+3780 мс
+SOCKS4, SOCKS5	Высокая	9 минут
+46.105.121.37	20776
+  France
+3520 мс
+SOCKS4, SOCKS5	Высокая	9 минут
+83.243.66.120	8119
+  Russian Federation Saint Petersburg
+3320 мс
+SOCKS4, SOCKS5	Высокая	9 минут
+92.222.39.180	24293
+  France Paris
+1060 мс
+SOCKS4, SOCKS5	Высокая	9 минут
+103.54.218.68	1080
+  Indonesia Jakarta
+3200 мс
+SOCKS4	Высокая	10 минут
+119.47.91.113	1080
+  Indonesia Jakarta
+1500 мс
+SOCKS4	Высокая	10 минут
+112.170.38.195	1080
+  Korea Seongnam
+2740 мс
+SOCKS4	Высокая	10 минут
+180.178.104.178	1080
+  Indonesia Jakarta
+1440 мс
+SOCKS4	Высокая	10 минут
+217.10.204.238	1080
+  Romania
+520 мс
+SOCKS4	Высокая	10 минут
+180.211.193.190	1080
+  Bangladesh Dhaka
+1280 мс
+SOCKS4	Высокая	10 минут
+109.201.109.43	1080
+  Russian Federation
+200 мс
+SOCKS4	Высокая	10 минут
+46.105.121.37	1106
+  France
+1600 мс
+SOCKS5	Высокая	11 минут
+47.89.47.13	9999
+  Hong Kong
+5100 мс
+SOCKS5	Высокая	11 минут
+163.121.188.2	4000
+  Egypt Cairo
+540 мс
+SOCKS4, SOCKS5	Высокая	11 минут
+104.128.35.50	19378
+  United States Lewis
+2980 мс
+SOCKS5	Высокая	11 минут
+112.140.184.147	3129
+  Singapore
+5100 мс
+HTTPS	Высокая	11 минут
+177.32.55.159	34495
+  Brazil Embu
+1860 мс
+SOCKS5	Высокая	11 минут
+203.188.254.110	1080
+  Bangladesh Dhaka
+1340 мс
+SOCKS4	Высокая	11 минут
+163.121.188.3	4000
+  Egypt Cairo
+700 мс
+SOCKS4, SOCKS5	Высокая	11 минут
+41.58.156.254	1080
+  Nigeria Shogunle
+960 мс
+SOCKS4	Высокая	11 минут
+38.95.237.146	1080
+  United States
+2100 мс
+SOCKS4	Высокая	11 минут
+96.63.243.21	10200
+  United States Oxford
+5100 мс
+SOCKS5	Высокая	11 минут
+177.193.171.179	16770
+  Brazil Cuiabá
+1800 мс
+SOCKS5	Высокая	11 минут
+86.106.201.13	45554
+  Romania
+4580 мс
+SOCKS5	Высокая	11 минут
+31.25.140.38	8080
+  Iraq Arbil
+740 мс
+SOCKS4	Высокая	12 минут
+191.102.87.242	3128
+  Colombia Bogotá
+1360 мс
+HTTPS	Высокая	12 минут
+95.109.71.104	45554
+  Sweden Malmö
+300 мс
+SOCKS5	Высокая	12 минут
+177.67.82.94	80
+  Brazil Franca
+3880 мс
+HTTPS	Высокая	12 минут
+117.240.14.98	45554
+  India New Delhi
+3540 мс
+SOCKS5	Высокая	12 минут
+212.92.127.88	1080
+  Russian Federation
+400 мс
+SOCKS4, SOCKS5	Высокая	12 минут
+203.160.169.13	45554
+  Philippines Makati
+5100 мс
+SOCKS5	Высокая	12 минут
+180.92.239.217	1080
+  Bangladesh
+5100 мс
+SOCKS4	Высокая	12 минут
+36.66.158.103	1080
+  Indonesia
+3120 мс
+SOCKS4	Высокая	12 минут
+190.111.205.2	1080
+  Argentina Buenos Aires
+1780 мс
+SOCKS4	Высокая	12 минут
+77.120.224.86	9999
+  Ukraine Kirovograd
+240 мс
+SOCKS4	Высокая	12 минут
+189.100.181.210	12230
+  Brazil São Paulo
+3900 мс
+SOCKS5	Высокая	12 минут
+27.123.1.162	1080
+  Indonesia Jakarta
+4420 мс
+SOCKS4	Высокая	12 минут
+103.214.55.6	1080
+  Indonesia Tangerang
+1680 мс
+SOCKS4	Высокая	12 минут
+49.236.220.130	1080
+  Indonesia Bandung
+1360 мс
+SOCKS4	Высокая	12 минут
+84.42.9.14	1080
+  Russian Federation Moscow
+420 мс
+SOCKS4	Высокая	12 минут
+212.5.143.133	1080
+  Bulgaria Sofia
+580 мс
+SOCKS4	Высокая	13 минут
+88.119.137.155	1080
+  Lithuania Klaipeda
+360 мс
+SOCKS4	Высокая	13 минут
+186.117.156.147	1080
+  Colombia Bogotá
+2220 мс
+SOCKS4	Высокая	13 минут
+189.122.67.243	65000
+  Brazil Rio De Janeiro
+1820 мс
+SOCKS5	Высокая	13 минут
+76.73.202.69	45554
+  United States Madison
+3060 мс
+SOCKS5	Высокая	13 минут
+194.168.205.26	3128
+  United Kingdom Monmouth
+1480 мс
+HTTPS	Высокая	13 минут
+192.99.80.176	80
+  Canada Montréal
+2120 мс
+HTTPS	Высокая	13 минут
+189.122.146.33	12123
+  Brazil Rio De Janeiro
+1620 мс
+SOCKS5	Высокая	13 минут
+82.208.175.24	1080
+  Romania
+520 мс
+SOCKS4	Высокая	13 минут
+104.207.144.208	1080
+  United States Miami
+920 мс
+SOCKS4	Высокая	13 минут
+177.67.82.116	8080
+  Brazil Franca
+2880 мс
+HTTPS	Высокая	14 минут
+210.212.31.215	8080
+  India New Delhi
+3480 мс
+HTTPS	Высокая	14 минут
+47.88.158.115	8080
+  Singapore
+1600 мс
+HTTPS	Высокая	14 минут
+202.5.17.76	8080
+  United States Los Angeles
+1180 мс
+HTTPS	Высокая	14 минут
+186.177.17.131	8080
+  Costa Rica San José
+1260 мс
+HTTPS	Высокая	14 минут
+134.213.152.188	4444
+  United Kingdom
+400 мс
+HTTPS	Высокая	15 минут
+69.9.219.74	45554
+  United States Watertown
+1360 мс
+SOCKS5	Высокая	21 минута
+89.38.149.185	8080
+  France Paris
+5060 мс
+HTTPS	Высокая	22 минуты
+77.107.43.208	45554
+  Sweden Malmö
+420 мс
+SOCKS5	Высокая	23 минуты
+149.56.140.221	3128
+  Canada Montréal
+760 мс
+HTTPS	Высокая	23 минуты
+167.88.14.122	8080
+  United States West Chicago
+1340 мс
+HTTPS	Высокая	26 минут
+138.97.241.150	3128
+  Brazil Carapicuíba
+4660 мс
+HTTPS	Высокая	30 минут
+200.123.138.229	8080
+  Argentina Buenos Aires
+2160 мс
+HTTPS	Высокая	30 минут
+125.141.200.2	80
+  Korea
+5100 мс
+HTTPS	Высокая	30 минут
+45.55.27.88	1080
+  United States San Francisco
+1320 мс
+SOCKS5	Высокая	30 минут
+125.141.200.13	80
+  Korea
+5100 мс
+HTTPS	Высокая	30 минут
+95.65.69.139	1080
+  Moldova
+480 мс
+SOCKS4	Высокая	30 минут
+125.141.200.34	80
+  Korea
+5100 мс
+HTTPS	Высокая	30 минут
+125.141.200.11	80
+  Korea
+5100 мс
+HTTPS	Высокая	30 минут
+125.141.200.15	80
+  Korea
+5100 мс
+HTTPS	Высокая	31 минута
+125.141.200.38	80
+  Korea
+5100 мс
+HTTPS	Высокая	31 минута
+125.141.200.23	80
+  Korea
+5100 мс
+HTTPS	Высокая	31 минута
+138.68.198.203	1080
+  United States New York
+1280 мс
+SOCKS5	Высокая	31 минута
+113.53.230.195	3128
+  Thailand Chaiyaphum
+1840 мс
+HTTPS	Высокая	31 минута
+162.243.78.25	1080
+  United States New York
+780 мс
+SOCKS5	Высокая	31 минута
+159.203.50.248	1080
+  Canada Toronto
+960 мс
+SOCKS5	Высокая	31 минута
+125.141.200.5	80
+  Korea
+5100 мс
+HTTPS	Высокая	31 минута
+41.76.223.63	1080
+  South Africa Cape Town
+4920 мс
+SOCKS4	Высокая	31 минута
+189.113.65.66	3128
+  Brazil Teresópolis
+1400 мс
+HTTPS	Высокая	31 минута
+125.141.200.24	80
+  Korea
+5100 мс
+HTTPS	Высокая	31 минута
+125.141.200.46	80
+  Korea
+5100 мс
+HTTPS	Высокая	31 минута
+181.41.212.36	80
+  Brazil São Paulo
+1320 мс
+HTTPS	Высокая	31 минута
+125.141.200.35	80
+  Korea
+5100 мс
+HTTPS	Высокая	31 минута
+125.141.200.20	80
+  Korea
+5100 мс
+HTTPS	Высокая	31 минута
+125.141.200.12	80
+  Korea
+5100 мс
+HTTPS	Высокая	31 минута
+47.90.89.34	1080
+  Hong Kong
+1900 мс
+SOCKS5	Высокая	31 минута
+146.185.168.235	1080
+  Netherlands Amsterdam
+460 мс
+SOCKS5	Высокая	31 минута
+138.68.5.67	1080
+  United States Santa Clara
+1340 мс
+SOCKS5	Высокая	31 минута
+125.141.200.36	80
+  Korea
+5100 мс
+HTTPS	Высокая	31 минута
+2.188.28.10	1080
+  Iran
+860 мс
+SOCKS4	Высокая	31 минута
+117.74.120.81	1080
+  Indonesia Salatiga
+1460 мс
+SOCKS4	Высокая	31 минута
+159.203.8.92	1080
+  Canada Toronto
+960 мс
+SOCKS5	Высокая	31 минута
+125.141.200.51	80
+  Korea
+5100 мс
+HTTPS	Высокая	31 минута
+88.198.24.108	1080
+  Germany Nürnberg
+5100 мс
+SOCKS5	Высокая	31 минута
+159.203.63.227	3128
+  Canada Toronto
+5100 мс
+HTTPS	Высокая	31 минута
+125.141.200.26	80
+  Korea
+5100 мс
+HTTPS	Высокая	31 минута
+123.63.242.115	3128
+  India New Delhi
+2700 мс
+HTTPS	Высокая	31 минута
+66.253.249.128	10200
+  United States Auburn
+5100 мс
+SOCKS5	Высокая	31 минута
+125.141.200.37	80
+  Korea
+5100 мс
+HTTPS	Высокая	31 минута
+46.164.150.230	1080
+  Ukraine Kiev
+260 мс
+SOCKS4	Высокая	31 минута
+192.95.55.60	8799
+  Canada Montréal
+3520 мс
+HTTPS	Высокая	32 минуты
+88.198.50.103	1080
+  Germany Nürnberg
+420 мс
+SOCKS5	Высокая	32 минуты
+125.141.200.55	80
+  Korea
+5100 мс
+HTTPS	Высокая	32 минуты
+45.76.107.246	8080
+  Japan Heiwajima
+1420 мс
+HTTPS	Высокая	32 минуты
+198.50.240.26	8799
+  Canada Montréal
+5020 мс
+HTTPS	Высокая	32 минуты
+158.69.20.149	80
+  Canada Montréal
+5100 мс
+HTTPS	Высокая	32 минуты
+125.141.200.39	80
+  Korea
+5100 мс
+HTTPS	Высокая	32 минуты
+125.141.200.7	80
+  Korea
+5100 мс
+HTTPS	Высокая	32 минуты
+217.24.246.166	1080
+  Albania
+640 мс
+SOCKS4	Высокая	32 минуты
+190.66.3.90	3128
+  Colombia Bogotá
+1280 мс
+HTTPS	Высокая	32 минуты
+173.192.21.89	1080
+  United States Dallas
+900 мс
+SOCKS4, SOCKS5	Высокая	32 минуты
+212.33.245.145	1080
+  Russian Federation Perm
+200 мс
+SOCKS4	Высокая	32 минуты
+187.75.146.123	3128
+  Brazil Campinas
+1460 мс
+HTTPS	Высокая	32 минуты
+191.101.159.201	3128
+  United States Chicago
+800 мс
+HTTPS	Высокая	32 минуты
+159.203.152.83	1080
+  United States New York
+780 мс
+SOCKS5	Высокая	32 минуты
+138.197.227.105	1080
+  United States New York
+780 мс
+SOCKS5	Высокая	32 минуты
+125.141.200.3	80
+  Korea
+5100 мс
+HTTPS	Высокая	32 минуты
+138.68.37.211	1080
+  United States New York
+5100 мс
+SOCKS5	Высокая	32 минуты
+125.141.200.45	80
+  Korea
+5100 мс
+HTTPS	Высокая	32 минуты
+190.210.231.25	3128
+  Argentina Buenos Aires
+2620 мс
+HTTPS	Высокая	32 минуты
+177.7.193.123	3128
+  Brazil
+1580 мс
+HTTPS	Высокая	32 минуты
+212.59.98.165	443
+  Russian Federation
+2580 мс
+HTTPS	Высокая	32 минуты
+94.177.242.55	8799
+  France Paris
+3660 мс
+HTTPS	Высокая	32 минуты
+188.166.201.181	1080
+  Netherlands Amsterdam
+340 мс
+SOCKS5	Высокая	33 минуты
+68.234.199.122	10200
+  United States Tallahassee
+5100 мс
+SOCKS5	Высокая	33 минуты
+192.95.55.60	3128
+  Canada Montréal
+3620 мс
+HTTPS	Высокая	33 минуты
+125.141.200.14	80
+  Korea
+5100 мс
+HTTPS	Высокая	33 минуты
+125.141.200.40	80
+  Korea
+5100 мс
+HTTPS	Высокая	33 минуты
+125.141.200.21	80
+  Korea
+5100 мс
+HTTPS	Высокая	33 минуты
+125.141.200.53	80
+  Korea
+5100 мс
+HTTPS	Высокая	33 минуты
+125.141.200.54	80
+  Korea
+5100 мс
+HTTPS	Высокая	33 минуты
+125.141.200.25	80
+  Korea
+5100 мс
+HTTPS	Высокая	33 минуты
+103.28.84.5	1080
+  Nepal Bharatpur
+2240 мс
+SOCKS4	Высокая	33 минуты
+138.68.120.201	1080
+  United States New York
+760 мс
+SOCKS5	Высокая	33 минуты
+125.141.200.6	80
+  Korea
+5100 мс
+HTTPS	Высокая	33 минуты
+125.141.200.4	80
+  Korea
+5100 мс
+HTTPS	Высокая	33 минуты
+202.68.254.99	1080
+  Korea Seoul
+1680 мс
+SOCKS4	Высокая	33 минуты
+125.141.200.47	80
+  Korea
+5100 мс
+HTTPS	Высокая	33 минуты
+54.251.152.131	2999
+  Singapore Singapore
+1940 мс
+HTTPS	Высокая	33 минуты
+125.141.200.22	80
+  Korea
+5100 мс
+HTTPS	Высокая	33 минуты
+125.141.200.52	80
+  Korea
+5100 мс
+HTTPS	Высокая	33 минуты
+94.79.182.109	80
+  Germany Remscheid
+440 мс
+HTTP	Высокая	33 минуты
+138.68.37.49	1080
+  United States New York
+1260 мс
+SOCKS5	Высокая	33 минуты
+138.197.58.55	1080
+  United States New York
+860 мс
+SOCKS5	Высокая	33 минуты
+185.101.238.21	1080
+  Russian Federation Bulgakov
+760 мс
+SOCKS4	Высокая	33 минуты
+178.62.245.236	1080
+  Netherlands Amsterdam
+360 мс
+SOCKS5	Высокая	33 минуты
+198.50.154.129	32321
+  United States Newark
+2240 мс
+SOCKS4	Высокая	37 минут
+124.109.20.26	8888
+  Indonesia Jakarta
+2700 мс
+SOCKS4	Высокая	38 минут
+124.109.20.18	8888
+  Indonesia Jakarta
+2700 мс
+SOCKS4	Высокая	38 минут
+176.115.73.8	1080
+  Russian Federation Ekaterinburg
+200 мс
+SOCKS5	Высокая	38 минут
+109.254.143.7	1080
+  Ukraine Donetsk
+1200 мс
+SOCKS4	Высокая	38 минут
+194.145.216.10	1080
+  Ukraine
+240 мс
+SOCKS4	Высокая	38 минут
+178.215.150.44	1080
+  Russian Federation Yaroslavl
+140 мс
+SOCKS4	Высокая	38 минут
+14.199.124.204	80
+  Hong Kong Central District
+1520 мс
+HTTP	Высокая	44 минуты
+177.23.184.51	3128
+  Brazil
+5100 мс
+HTTPS	Высокая	50 минут
+84.14.146.207	1080
+  France Courbevoie
+2360 мс
+SOCKS4	Высокая	50 минут
+77.120.224.86	9999
+  Ukraine Kirovograd
+200 мс
+SOCKS4	Высокая	58 минут
+144.217.16.78	8080
+  Canada Beauharnois
+1280 мс
+HTTP, HTTPS	Средняя	1 ч. 0 мин.
+192.99.80.176	80
+  Canada Montréal
+5100 мс
+HTTPS	Высокая	1 ч. 21 мин.
+144.217.16.78	3128
+  Canada Beauharnois
+2000 мс
+HTTP, HTTPS	Средняя	1 ч. 28 мин.
+88.119.137.155	1080
+  Lithuania Klaipeda
+1420 мс
+SOCKS4	Высокая	1 ч. 31 мин.
+5.189.162.175	3128
+  Germany
+3340 мс
+HTTPS	Высокая	1 ч. 35 мин.
+144.217.203.149	3128
+  Canada Beauharnois
+5100 мс
+HTTPS	Высокая	1 ч. 56 мин.
+98.165.246.91	8118
+  United States Phoenix
+1400 мс
+HTTP	Высокая	2 ч. 4 мин.
+158.69.20.149	80
+  Canada Montréal
+4200 мс
+HTTPS	Высокая	2 ч. 23 мин.
+149.56.147.46	8080
+  Canada Montréal
+1320 мс
+HTTPS	Высокая	3 ч. 2 мин.
+138.197.13.26	8080
+  United States New York
+2540 мс
+HTTP, HTTPS	Средняя	1 минута
+86.208.5.79	80
+  France Coivrel
+5100 мс
+HTTP	Высокая	1 минута
+192.95.4.14	3128
+  Canada Montréal
+2420 мс
+HTTPS	Высокая	2 минуты
+51.15.46.137	8080
+  Netherlands Haarlem
+1160 мс
+HTTP, HTTPS	Средняя	2 минуты
+198.50.240.23	80
+  Canada Montréal
+620 мс
+HTTP, HTTPS	Средняя	2 минуты
+128.199.213.209	8080
+  Singapore Singapore
+2560 мс
+HTTPS	Высокая	2 минуты
+144.217.103.74	8080
+  Canada Beauharnois
+620 мс
+HTTP, HTTPS	Средняя	2 минуты
+46.105.121.37	59431
+  France
+4280 мс
+SOCKS5	Высокая	2 минуты
+82.211.60.230	3128
+  Germany
+620 мс
+HTTPS	Высокая	2 минуты
+158.69.77.48	8080
+  Canada Montréal
+480 мс
+HTTP, HTTPS	Средняя	2 минуты
+103.58.74.105	8080
+  Bangladesh Dhaka
+1040 мс
+HTTP	Средняя	2 минуты
+74.84.131.34	80
+  United States
+4960 мс
+HTTP	Высокая	2 минуты
+52.8.172.72	4444
+  United States San Jose
+1100 мс
+HTTPS	Высокая	2 минуты
+31.220.58.61	8080
+  United States
+780 мс
+HTTP, HTTPS	Средняя	2 минуты
+162.13.141.182	3129
+  United Kingdom
+780 мс
+HTTPS	Высокая	2 минуты
+177.67.86.123	3128
+  Brazil Franca
+1160 мс
+HTTP, HTTPS	Средняя	2 минуты
+177.67.82.97	3128
+  Brazil Franca
+1120 мс
+HTTP, HTTPS	Средняя	2 минуты
+177.67.82.94	8799
+  Brazil Franca
+2580 мс
+HTTPS	Высокая	2 минуты
+103.238.215.194	8080
+  Vietnam Bình Thành
+1440 мс
+HTTP	Средняя	2 минуты
+177.54.147.140	80
+  Brazil
+960 мс
+HTTP, HTTPS	Средняя	2 минуты
+177.67.81.212	3128
+  Brazil Franca
+1160 мс
+HTTP, HTTPS	Средняя	2 минуты
+167.114.17.152	80
+  Canada Montréal
+480 мс
+HTTP, HTTPS	Средняя	2 минуты
+212.83.174.222	3128
+  France
+280 мс
+HTTP	Высокая	2 минуты
+177.67.82.80	3128
+  Brazil Franca
+4300 мс
+HTTP, HTTPS	Средняя	2 минуты
+159.8.114.37	8123
+  France Clichy
+2040 мс
+HTTPS	Высокая	2 минуты
+191.96.43.23	8080
+  United States Chicago
+640 мс
+HTTP, HTTPS	Средняя	2 минуты
+77.120.224.86	9999
+  Ukraine Kirovograd
+260 мс
+SOCKS4	Высокая	2 минуты
+123.63.242.115	3128
+  India New Delhi
+1080 мс
+HTTPS	Высокая	2 минуты
+177.11.55.68	8080
+  Brazil
+1240 мс
+HTTP, HTTPS	Средняя	2 минуты
+173.192.128.238	8080
+  United States Seattle
+600 мс
+HTTP, HTTPS	Высокая	2 минуты
+159.8.114.37	25
+  France Clichy
+1040 мс
+HTTPS	Высокая	2 минуты
+52.33.102.98	80
+  United States Boardman
+940 мс
+HTTP, HTTPS	Средняя	2 минуты
+144.217.248.180	8799
+  Canada Beauharnois
+640 мс
+HTTP, HTTPS	Высокая	2 минуты
+113.53.230.195	3128
+  Thailand Chaiyaphum
+1780 мс
+HTTPS	Высокая	2 минуты
+125.141.200.13	80
+  Korea
+5100 мс
+HTTPS	Высокая	2 минуты
+54.251.152.131	2222
+  Singapore Singapore
+2040 мс
+HTTPS	Высокая	2 минуты
+47.88.158.115	8080
+  Singapore
+1540 мс
+HTTPS	Высокая	2 минуты
+92.222.39.180	24293
+  France Paris
+1300 мс
+SOCKS4, SOCKS5	Высокая	2 минуты
+91.206.149.160	1080
+  Russian Federation Astrakhan
+320 мс
+SOCKS4	Высокая	2 минуты
+217.20.82.7	1080
+  Russian Federation
+280 мс
+SOCKS4	Высокая	2 минуты
+177.67.81.212	8080
+  Brazil Franca
+1000 мс
+HTTP, HTTPS	Средняя	2 минуты
+212.237.6.142	8080
+  Denmark
+400 мс
+HTTP, HTTPS	Средняя	2 минуты
+212.92.127.88	1080
+  Russian Federation
+3340 мс
+SOCKS4, SOCKS5	Высокая	2 минуты
+185.106.121.95	1080
+  Netherlands
+300 мс
+HTTP	Высокая	2 минуты
+173.192.128.238	25
+  United States Seattle
+840 мс
+HTTP, HTTPS	Высокая	2 минуты
+173.192.21.89	25
+  United States Dallas
+540 мс
+HTTP, HTTPS	Высокая	2 минуты
+173.192.128.238	8123
+  United States Seattle
+620 мс
+HTTP, HTTPS	Высокая	2 минуты
+188.165.244.7	1080
+  France
+360 мс
+SOCKS4	Высокая	2 минуты
+138.68.37.49	1080
+  United States New York
+2000 мс
+SOCKS5	Высокая	2 минуты
+155.94.193.246	1080
+  United States Los Angeles
+1900 мс
+HTTP	Высокая	2 минуты
+83.239.58.162	8080
+  Russian Federation Moscow
+260 мс
+HTTPS	Высокая	2 минуты
+91.134.50.198	24632
+  France
+460 мс
+SOCKS5	Высокая	2 минуты
+177.67.81.97	8799
+  Brazil Franca
+2240 мс
+HTTP, HTTPS	Средняя	2 минуты
+125.141.200.52	80
+  Korea
+5100 мс
+HTTPS	Высокая	2 минуты
+159.203.50.248	1080
+  Canada Toronto
+960 мс
+SOCKS5	Высокая	2 минуты
+88.99.69.99	80
+  Germany
+4220 мс
+HTTP	Высокая	2 минуты
+192.95.47.171	3128
+  Canada Montréal
+720 мс
+HTTP, HTTPS	Средняя	2 минуты
+165.229.125.124	8080
+  Korea Gyeongsan
+4760 мс
+HTTP	Высокая	2 минуты
+134.213.152.188	3129
+  United Kingdom
+380 мс
+HTTPS	Высокая	2 минуты
+125.141.200.47	80
+  Korea
+5100 мс
+HTTPS	Высокая	2 минуты
+134.213.208.193	4444
+  United Kingdom London
+420 мс
+HTTPS	Высокая	2 минуты
+125.141.200.34	80
+  Korea
+5100 мс
+HTTPS	Высокая	2 минуты
+125.141.200.2	80
+  Korea
+5100 мс
+HTTPS	Высокая	2 минуты
+203.188.254.110	1080
+  Bangladesh Dhaka
+2280 мс
+SOCKS4	Высокая	2 минуты
+201.16.140.120	8080
+  Brazil
+2340 мс
+HTTP, HTTPS	Средняя	2 минуты
+96.47.235.6	1080
+  United States Miami
+1920 мс
+HTTP	Высокая	2 минуты
+125.141.200.15	80
+  Korea
+5100 мс
+HTTPS	Высокая	2 минуты
+94.177.229.138	8080
+  Germany Frankfurt
+320 мс
+HTTP, HTTPS	Средняя	2 минуты
+124.109.20.18	8888
+  Indonesia Jakarta
+2760 мс
+SOCKS4	Высокая	2 минуты
+173.254.203.214	1080
+  United States Los Angeles
+2240 мс
+HTTP	Высокая	2 минуты
+125.141.200.46	80
+  Korea
+5100 мс
+HTTPS	Высокая	2 минуты
+181.57.201.254	8080
+  Colombia
+5100 мс
+HTTP	Высокая	2 минуты
+138.197.58.55	1080
+  United States New York
+820 мс
+SOCKS5	Высокая	2 минуты
+138.68.5.67	1080
+  United States Santa Clara
+1340 мс
+SOCKS5	Высокая	2 минуты
+50.93.197.98	1080
+  United States Tampa
+920 мс
+HTTP	Высокая	2 минуты
+185.101.238.21	1080
+  Russian Federation Bulgakov
+740 мс
+SOCKS4	Высокая	2 минуты
+62.100.204.113	3128
+  United Kingdom
+440 мс
+HTTPS	Высокая	2 минуты
+179.61.233.38	8080
+  United States Chicago
+1400 мс
+HTTP	Средняя	2 минуты
+212.11.117.124	3128
+  Czech Republic
+2220 мс
+HTTP	Высокая	2 минуты
+134.213.152.188	4444
+  United Kingdom
+660 мс
+HTTPS	Высокая	2 минуты
+125.141.200.4	80
+  Korea
+5100 мс
+HTTPS	Высокая	2 минуты
+117.5.203.189	80
+  Vietnam Hanoi
+1480 мс
+HTTP	Высокая	2 минуты
+162.13.136.29	3129
+  United Kingdom
+380 мс
+HTTPS	Высокая	2 минуты
+173.254.203.213	1080
+  United States Los Angeles
+1900 мс
+HTTP	Высокая	2 минуты
+155.94.193.245	1080
+  United States Los Angeles
+1220 мс
+HTTP	Высокая	2 минуты
+201.90.120.194	3128
+  Brazil
+1820 мс
+HTTPS	Высокая	2 минуты
+88.99.174.139	3128
+  Germany
+340 мс
+HTTPS	Высокая	2 минуты
+144.217.48.73	8080
+  Canada Beauharnois
+1680 мс
+HTTP, HTTPS	Средняя	2 минуты
+189.122.67.243	65000
+  Brazil Rio De Janeiro
+5100 мс
+SOCKS5	Высокая	2 минуты
+125.141.200.45	80
+  Korea
+5100 мс
+HTTPS	Высокая	2 минуты
+131.221.45.70	8080
+  Brazil
+4200 мс
+HTTPS	Высокая	2 минуты
+178.32.108.101	80
+  France
+240 мс
+HTTP, HTTPS	Средняя	2 минуты
+155.94.193.243	1080
+  United States Los Angeles
+1740 мс
+HTTP	Высокая	2 минуты
+51.15.46.137	3128
+  Netherlands Haarlem
+1600 мс
+HTTP, HTTPS	Средняя	2 минуты
+178.32.108.101	8080
+  France
+2540 мс
+HTTP, HTTPS	Средняя	2 минуты
+173.192.21.89	8123
+  United States Dallas
+560 мс
+HTTP, HTTPS	Высокая	2 минуты
+125.141.200.5	80
+  Korea
+5100 мс
+HTTPS	Высокая	2 минуты
+162.13.166.149	3129
+  United Kingdom
+380 мс
+HTTPS	Высокая	2 минуты
+134.213.214.187	3129
+  United Kingdom London
+380 мс
+HTTPS	Высокая	2 минуты
+200.229.193.112	8080
+  Brazil
+3180 мс
+HTTP	Средняя	2 минуты
+202.59.74.190	808
+  Pakistan Lahore
+2980 мс
+HTTP	Высокая	2 минуты
+192.95.21.165	3128
+  Canada Montréal
+4020 мс
+HTTPS	Высокая	2 минуты
+134.213.62.13	3129
+  United Kingdom London
+360 мс
+HTTPS	Высокая	2 минуты
+125.141.200.35	80
+  Korea
+5100 мс
+HTTPS	Высокая	2 минуты
+94.20.21.38	3128
+  Azerbaijan
+3580 мс
+HTTPS	Высокая	2 минуты
+77.73.66.136	80
+  Russian Federation
+600 мс
+HTTP, HTTPS	Средняя	2 минуты
+144.217.46.198	8799
+  Canada Beauharnois
+3020 мс
+HTTPS	Высокая	2 минуты
+112.170.38.195	1080
+  Korea Seongnam
+1800 мс
+SOCKS4	Высокая	2 минуты
+94.79.182.109	80
+  Germany Remscheid
+380 мс
+HTTP	Высокая	2 минуты
+45.76.107.246	8080
+  Japan Heiwajima
+1460 мс
+HTTPS	Высокая	2 минуты
+210.212.31.215	8080
+  India New Delhi
+3520 мс
+HTTPS	Высокая	2 минуты
+82.223.31.196	80
+  Spain
+2460 мс
+HTTP	Средняя	2 минуты
+54.235.252.205	3128
+  United States Ashburn
+1680 мс
+HTTPS	Высокая	2 минуты
+158.69.77.48	3128
+  Canada Montréal
+460 мс
+HTTP, HTTPS	Средняя	2 минуты
+119.81.71.27	25
+  Singapore Singapore
+700 мс
+HTTP, HTTPS	Высокая	2 минуты
+95.215.110.136	8975
+  Russian Federation
+2120 мс
+SOCKS5	Высокая	2 минуты
+198.199.84.127	80
+  United States New York
+1560 мс
+HTTP, HTTPS	Средняя	2 минуты
+167.114.17.152	8799
+  Canada Montréal
+620 мс
+HTTP, HTTPS	Средняя	2 минуты
+51.15.39.67	443
+  Netherlands Haarlem
+2680 мс
+HTTPS	Высокая	2 минуты
+41.242.93.9	8080
+  Nigeria
+2220 мс
+HTTP	Высокая	2 минуты
+173.254.203.210	1080
+  United States Los Angeles
+1620 мс
+HTTP	Высокая	2 минуты
+149.56.226.28	8080
+  Canada Montréal
+580 мс
+HTTP, HTTPS	Средняя	2 минуты
+79.122.217.238	1080
+  Russian Federation Penza
+440 мс
+SOCKS4	Высокая	2 минуты
+177.67.81.212	80
+  Brazil Franca
+1860 мс
+HTTP, HTTPS	Средняя	2 минуты
+158.69.73.162	8080
+  Canada Montréal
+500 мс
+HTTP, HTTPS	Средняя	2 минуты
+125.141.200.37	80
+  Korea
+5100 мс
+HTTPS	Высокая	2 минуты
+109.201.109.43	1080
+  Russian Federation
+160 мс
+SOCKS4	Высокая	2 минуты
+177.67.82.116	80
+  Brazil Franca
+3160 мс
+HTTP, HTTPS	Средняя	2 минуты
+115.254.104.201	8080
+  India Mumbai
+1720 мс
+HTTP	Высокая	3 минуты
+52.8.41.170	4444
+  United States San Jose
+1100 мс
+HTTPS	Высокая	3 минуты
+83.169.17.225	80
+  Germany Höst
+2860 мс
+HTTP	Высокая	3 минуты
+204.12.155.204	3128
+  Canada Calgary
+3340 мс
+HTTPS	Высокая	3 минуты
+158.69.73.162	80
+  Canada Montréal
+720 мс
+HTTP, HTTPS	Средняя	3 минуты
+125.141.200.24	80
+  Korea
+5100 мс
+HTTPS	Высокая	3 минуты
+177.67.82.102	8080
+  Brazil Franca
+840 мс
+HTTP, HTTPS	Средняя	3 минуты
+160.16.103.201	8080
+  Japan Osaka
+1280 мс
+HTTP	Средняя	3 минуты
+196.196.3.162	1080
+  Seychelles Mahé
+980 мс
+HTTP	Высокая	3 минуты
+154.16.127.141	8080
+  United States Denver
+640 мс
+HTTP, HTTPS	Средняя	3 минуты
+186.177.17.131	8080
+  Costa Rica San José
+1180 мс
+HTTPS	Высокая	3 минуты
+177.67.86.116	80
+  Brazil Franca
+840 мс
+HTTP, HTTPS	Средняя	3 минуты
+46.105.121.37	28167
+  France
+2740 мс
+SOCKS4, SOCKS5	Высокая	3 минуты
+78.43.82.41	3128
+  Germany Biberach
+2780 мс
+HTTP	Средняя	3 минуты
+144.217.96.81	80
+  Canada Beauharnois
+480 мс
+HTTP, HTTPS	Средняя	3 минуты
+86.121.255.215	3128
+  Romania
+1520 мс
+HTTP	Средняя	3 минуты
+208.92.94.231	1080
+  United States Los Angeles
+2000 мс
+HTTP	Высокая	3 минуты
+146.185.168.235	1080
+  Netherlands Amsterdam
+1600 мс
+SOCKS5	Высокая	3 минуты
+177.54.147.140	3128
+  Brazil
+1940 мс
+HTTP, HTTPS	Средняя	3 минуты
+177.67.84.135	3128
+  Brazil Franca
+900 мс
+HTTP, HTTPS	Средняя	3 минуты
+200.229.202.93	8080
+  Brazil
+5100 мс
+HTTPS	Высокая	3 минуты
+93.190.253.50	80
+  Germany Weinheim
+240 мс
+HTTP	Высокая	3 минуты
+113.252.236.96	8080
+  Hong Kong
+1500 мс
+HTTP	Высокая	3 минуты
+77.73.65.205	3128
+  Russian Federation
+3160 мс
+HTTP, HTTPS	Средняя	3 минуты
+125.141.200.38	80
+  Korea
+5100 мс
+HTTPS	Высокая	3 минуты
+94.177.196.11	3128
+  Italy Arezzo
+640 мс
+HTTPS	Высокая	3 минуты
+54.251.152.131	2999
+  Singapore Singapore
+2060 мс
+HTTPS	Высокая	3 минуты
+67.205.161.27	8080
+  United States New York
+560 мс
+HTTP, HTTPS	Средняя	3 минуты
+94.45.55.62	1080
+  Ukraine Kiev
+240 мс
+SOCKS4	Высокая	3 минуты
+79.110.203.131	1080
+  Poland Wroclaw
+1780 мс
+SOCKS4	Высокая	3 минуты
+77.73.66.26	8080
+  Russian Federation
+120 мс
+HTTP, HTTPS	Средняя	3 минуты
+89.38.149.185	8080
+  France Paris
+480 мс
+HTTP, HTTPS	Средняя	3 минуты
+180.210.206.52	3128
+  Singapore Singapore
+5040 мс
+HTTPS	Высокая	3 минуты
+125.141.200.40	80
+  Korea
+5100 мс
+HTTPS	Высокая	3 минуты
+103.58.74.100	8080
+  Bangladesh Dhaka
+2300 мс
+HTTP	Средняя	3 минуты
+125.141.200.7	80
+  Korea
+5100 мс
+HTTPS	Высокая	3 минуты
+89.17.42.59	3128
+  Russian Federation Moscow
+260 мс
+HTTP	Средняя	3 минуты
+175.182.64.89	80
+  Taiwan Taipei
+1500 мс
+HTTP	Высокая	3 минуты
+46.101.233.131	3128
+  Germany Frankfurt
+720 мс
+HTTPS	Высокая	3 минуты
+163.121.188.2	4000
+  Egypt Cairo
+1080 мс
+SOCKS4, SOCKS5	Высокая	3 минуты
+208.92.94.146	1080
+  United States Los Angeles
+900 мс
+HTTP	Высокая	3 минуты
+198.50.240.23	3128
+  Canada Montréal
+1160 мс
+HTTP, HTTPS	Средняя	3 минуты
+149.56.147.46	8080
+  Canada Montréal
+1480 мс
+HTTP	Средняя	3 минуты
+45.55.27.88	1080
+  United States San Francisco
+1900 мс
+SOCKS5	Высокая	3 минуты
+84.42.9.14	1080
+  Russian Federation Moscow
+1120 мс
+SOCKS4	Высокая	3 минуты
+195.97.55.26	80
+  Greece Athens
+5100 мс
+HTTP	Высокая	3 минуты
+5.2.69.101	1080
+  Netherlands
+280 мс
+HTTP	Высокая	3 минуты
+180.178.104.178	1080
+  Indonesia Jakarta
+2320 мс
+SOCKS4	Высокая	3 минуты
+149.202.198.179	8080
+  France
+220 мс
+HTTP, HTTPS	Средняя	3 минуты
+78.47.27.102	3128
+  Germany
+5100 мс
+HTTP	Высокая	3 минуты
+149.56.255.17	3128
+  Canada Montréal
+3260 мс
+HTTPS	Высокая	3 минуты
+96.47.235.3	1080
+  United States Miami
+920 мс
+HTTP	Высокая	3 минуты
+125.141.200.39	80
+  Korea
+5100 мс
+HTTPS	Высокая	3 минуты
+212.126.113.179	80
+  Iraq Sulaymaniyah
+1380 мс
+HTTP	Высокая	3 минуты
+138.68.198.203	1080
+  United States New York
+1880 мс
+SOCKS5	Высокая	3 минуты
+134.213.62.13	4444
+  United Kingdom Saint Neots
+380 мс
+HTTPS	Высокая	3 минуты
+144.217.248.180	8080
+  Canada Beauharnois
+4320 мс
+HTTP	Высокая	3 минуты
+192.95.21.165	80
+  Canada Montréal
+5100 мс
+HTTPS	Высокая	3 минуты
+124.124.1.178	3128
+  India Mumbai
+3220 мс
+HTTP	Средняя	3 минуты
+103.14.8.239	80
+  Thailand Chatuchak
+1140 мс
+HTTP, HTTPS	Высокая	3 минуты
+149.56.226.28	3128
+  Canada Montréal
+540 мс
+HTTP, HTTPS	Средняя	3 минуты
+88.198.50.103	1080
+  Germany Nürnberg
+380 мс
+SOCKS5	Высокая	3 минуты
+173.192.21.89	8080
+  United States Dallas
+1740 мс
+HTTP, HTTPS	Высокая	3 минуты
+177.67.86.116	8080
+  Brazil Franca
+860 мс
+HTTP, HTTPS	Средняя	3 минуты
+149.56.147.46	3128
+  Canada Montréal
+2520 мс
+HTTP	Средняя	3 минуты
+192.95.4.14	8080
+  Canada Montréal
+2120 мс
+HTTP, HTTPS	Средняя	3 минуты
+177.67.81.97	8080
+  Brazil Franca
+840 мс
+HTTP, HTTPS	Средняя	3 минуты
+158.69.77.48	80
+  Canada Montréal
+900 мс
+HTTP, HTTPS	Средняя	3 минуты
+125.141.200.51	80
+  Korea
+5100 мс
+HTTPS	Высокая	3 минуты
+144.217.103.15	8080
+  Canada Beauharnois
+620 мс
+HTTP, HTTPS	Средняя	3 минуты
+31.221.37.250	80
+  United Kingdom London
+4260 мс
+HTTP	Средняя	3 минуты
+144.217.248.180	3128
+  Canada Beauharnois
+1900 мс
+HTTP, HTTPS	Высокая	3 минуты
+177.67.81.97	80
+  Brazil Franca
+880 мс
+HTTP, HTTPS	Средняя	3 минуты
+144.217.31.225	3128
+  Canada Beauharnois
+1580 мс
+HTTP, HTTPS	Средняя	3 минуты
+67.205.159.165	8080
+  United States New York
+420 мс
+HTTP, HTTPS	Средняя	3 минуты
+88.159.43.160	80
+  Netherlands
+580 мс
+HTTP	Высокая	3 минуты
+177.67.82.102	80
+  Brazil Franca
+840 мс
+HTTP, HTTPS	Средняя	3 минуты
+177.67.86.116	3128
+  Brazil Franca
+1180 мс
+HTTP, HTTPS	Средняя	3 минуты
+155.94.193.244	1080
+  United States Los Angeles
+1780 мс
+HTTP	Высокая	3 минуты
+173.254.203.219	1080
+  United States Los Angeles
+1900 мс
+HTTP	Высокая	3 минуты
+125.141.200.53	80
+  Korea
+5100 мс
+HTTPS	Высокая	3 минуты
+177.67.86.122	8080
+  Brazil Franca
+1160 мс
+HTTP, HTTPS	Средняя	3 минуты
+177.67.86.120	8080
+  Brazil Franca
+820 мс
+HTTP, HTTPS	Средняя	3 минуты
+155.94.193.242	1080
+  United States Los Angeles
+2580 мс
+HTTP	Высокая	3 минуты
+77.89.240.126	80
+  Moldova Chisinau
+500 мс
+HTTP	Средняя	3 минуты
+195.12.173.17	3128
+  Lithuania
+420 мс
+HTTPS	Высокая	3 минуты
+77.73.66.26	3128
+  Russian Federation
+540 мс
+HTTP, HTTPS	Средняя	3 минуты
+5.2.69.145	1080
+  Netherlands
+2260 мс
+HTTP	Высокая	3 минуты
+119.81.71.27	8123
+  Singapore Singapore
+1700 мс
+HTTP, HTTPS	Высокая	3 минуты
+104.131.67.22	3128
+  United States New York
+1600 мс
+HTTP, HTTPS	Средняя	3 минуты
+103.214.55.6	1080
+  Indonesia Tangerang
+2980 мс
+SOCKS4	Высокая	3 минуты
+89.38.149.185	80
+  France Paris
+400 мс
+HTTP, HTTPS	Средняя	3 минуты
+5.2.69.107	1080
+  Netherlands
+1700 мс
+HTTP	Высокая	3 минуты
+125.141.200.3	80
+  Korea
+5100 мс
+HTTPS	Высокая	3 минуты
+162.13.136.97	3130
+  United Kingdom
+420 мс
+HTTPS	Высокая	3 минуты
+103.42.214.191	8080
+  Hong Kong Hong Kong
+1480 мс
+HTTP	Средняя	3 минуты
+138.197.148.203	80
+  Canada Toronto
+480 мс
+HTTP	Средняя	3 минуты
+178.33.42.158	3128
+  France
+380 мс
+HTTPS	Высокая	3 минуты
+139.59.102.94	8080
+  India Bangalore
+1180 мс
+HTTPS	Высокая	3 минуты
+207.99.118.74	8080
+  United States Cedar Knolls
+1100 мс
+HTTP	Средняя	3 минуты
+188.166.149.57	8118
+  United Kingdom London
+4960 мс
+HTTP	Высокая	3 минуты
+125.141.200.20	80
+  Korea
+5100 мс
+HTTPS	Высокая	3 минуты
+173.212.204.167	8080
+  United States Pilot Mountain
+580 мс
+HTTP, HTTPS	Средняя	3 минуты
+158.69.11.198	8080
+  Canada Montréal
+5100 мс
+HTTPS	Высокая	3 минуты
+192.99.83.16	8080
+  Canada Montréal
+5100 мс
+HTTPS	Высокая	3 минуты
+217.104.121.217	80
+  Netherlands
+360 мс
+HTTP	Высокая	3 минуты
+162.243.78.25	1080
+  United States New York
+1860 мс
+SOCKS5	Высокая	3 минуты
+125.141.200.14	80
+  Korea
+5100 мс
+HTTPS	Высокая	3 минуты
+206.128.191.27	8008
+  United States Sterling
+1300 мс
+HTTPS	Высокая	3 минуты
+144.217.96.81	8080
+  Canada Beauharnois
+1480 мс
+HTTP, HTTPS	Средняя	3 минуты
+178.62.245.236	1080
+  Netherlands Amsterdam
+400 мс
+SOCKS5	Высокая	3 минуты
+177.23.184.51	3128
+  Brazil
+1860 мс
+HTTPS	Высокая	3 минуты
+117.74.120.81	1080
+  Indonesia Salatiga
+1440 мс
+SOCKS4	Высокая	3 минуты
+173.192.21.89	1080
+  United States Dallas
+940 мс
+SOCKS4, SOCKS5	Высокая	3 минуты
+12.145.115.226	3128
+  United States Graceville
+4880 мс
+HTTP	Средняя	4 минуты
+138.197.23.220	3128
+  United States New York
+1080 мс
+HTTPS	Высокая	4 минуты
+149.202.198.179	80
+  France
+200 мс
+HTTP, HTTPS	Средняя	4 минуты
+52.69.15.186	3128
+  Japan Tokyo
+2240 мс
+HTTP	Высокая	4 минуты
+177.67.86.126	3128
+  Brazil Franca
+1180 мс
+HTTP, HTTPS	Средняя	4 минуты
+144.217.16.78	3128
+  Canada Beauharnois
+840 мс
+HTTP, HTTPS	Средняя	4 минуты
+77.73.66.136	3128
+  Russian Federation
+140 мс
+HTTP, HTTPS	Средняя	4 минуты
+77.73.66.136	8080
+  Russian Federation
+540 мс
+HTTP, HTTPS	Средняя	4 минуты
+200.123.138.229	8080
+  Argentina Buenos Aires
+3220 мс
+HTTPS	Высокая	4 минуты
+162.13.136.108	3129
+  United Kingdom
+1360 мс
+HTTPS	Высокая	4 минуты
+77.73.66.26	80
+  Russian Federation
+320 мс
+HTTP, HTTPS	Средняя	4 минуты
+96.47.235.5	1080
+  United States Miami
+920 мс
+HTTP	Высокая	4 минуты
+213.178.39.59	1080
+  Russian Federation Togliatti
+160 мс
+SOCKS4	Высокая	4 минуты
+103.14.8.239	8080
+  Thailand Chatuchak
+1120 мс
+HTTP, HTTPS	Высокая	4 минуты
+206.128.191.77	8008
+  United States Sterling
+1940 мс
+HTTP, HTTPS	Высокая	4 минуты
+125.141.200.36	80
+  Korea
+5100 мс
+HTTPS	Высокая	4 минуты
+125.141.200.25	80
+  Korea
+5100 мс
+HTTPS	Высокая	4 минуты
+125.141.200.6	80
+  Korea
+5100 мс
+HTTPS	Высокая	4 минуты
+125.141.200.23	80
+  Korea
+5100 мс
+HTTPS	Высокая	4 минуты
+188.166.201.181	1080
+  Netherlands Amsterdam
+380 мс
+SOCKS5	Высокая	4 минуты
+106.185.24.64	8080
+  Japan
+3320 мс
+HTTP	Средняя	4 минуты
+144.217.16.78	80
+  Canada Beauharnois
+1000 мс
+HTTP, HTTPS	Средняя	4 минуты
+177.67.82.94	3128
+  Brazil Franca
+5100 мс
+HTTPS	Высокая	4 минуты
+192.95.55.60	8080
+  Canada Montréal
+5100 мс
+HTTP, HTTPS	Средняя	4 минуты
+144.217.96.81	3128
+  Canada Beauharnois
+1620 мс
+HTTP, HTTPS	Средняя	4 минуты
+103.28.84.5	1080
+  Nepal Bharatpur
+2260 мс
+SOCKS4	Высокая	4 минуты
+217.182.158.159	80
+  United Kingdom
+320 мс
+HTTP, HTTPS	Средняя	4 минуты
+89.38.149.185	3128
+  France Paris
+480 мс
+HTTP, HTTPS	Средняя	4 минуты
+202.5.17.76	8080
+  United States Los Angeles
+1020 мс
+HTTPS	Высокая	4 минуты
+89.40.125.160	3128
+  Germany Frankfurt
+340 мс
+HTTPS	Высокая	4 минуты
+200.59.5.254	8888
+  Argentina El Talar
+1900 мс
+SOCKS5	Высокая	4 минуты
+177.93.106.221	8080
+  Brazil
+1160 мс
+HTTP, HTTPS	Средняя	4 минуты
+177.67.84.135	8080
+  Brazil Franca
+2180 мс
+HTTP, HTTPS	Средняя	4 минуты
+177.54.147.140	8080
+  Brazil
+1000 мс
+HTTP, HTTPS	Средняя	4 минуты
+177.67.82.97	80
+  Brazil Franca
+1200 мс
+HTTP, HTTPS	Средняя	4 минуты
+149.56.147.46	80
+  Canada Montréal
+1680 мс
+HTTP, HTTPS	Средняя	4 минуты
+109.254.143.7	1080
+  Ukraine Donetsk
+220 мс
+SOCKS4	Высокая	4 минуты
+185.22.172.196	8080
+  Russian Federation
+120 мс
+HTTP, HTTPS	Средняя	4 минуты
+192.95.55.60	80
+  Canada Montréal
+1200 мс
+HTTP, HTTPS	Средняя	4 минуты
+177.67.84.135	80
+  Brazil Franca
+2380 мс
+HTTP, HTTPS	Средняя	4 минуты
+125.141.200.12	80
+  Korea
+5100 мс
+HTTPS	Высокая	4 минуты
+149.56.140.221	3128
+  Canada Montréal
+780 мс
+HTTPS	Высокая	4 минуты
+134.213.208.187	4444
+  United Kingdom London
+640 мс
+HTTPS	Высокая	4 минуты
+194.8.51.253	8080
+  Ukraine
+300 мс
+HTTPS	Высокая	4 минуты
+177.67.81.69	3128
+  Brazil Franca
+860 мс
+HTTP, HTTPS	Средняя	4 минуты
+5.2.69.106	1080
+  Netherlands
+300 мс
+HTTP	Высокая	4 минуты
+77.73.65.165	8080
+  Russian Federation
+4180 мс
+HTTP	Средняя	4 минуты
+185.6.126.178	1080
+  Russian Federation Serpukhov
+140 мс
+SOCKS4	Высокая	4 минуты
+192.95.47.171	8080
+  Canada Montréal
+1000 мс
+HTTP, HTTPS	Средняя	4 минуты
+51.15.46.137	80
+  Netherlands Haarlem
+1140 мс
+HTTP, HTTPS	Средняя	4 минуты
+192.95.47.171	80
+  Canada Montréal
+740 мс
+HTTP, HTTPS	Средняя	4 минуты
+197.232.26.184	8080
+  Kenya Nairobi
+1260 мс
+SOCKS4	Высокая	4 минуты
+80.237.93.30	3128
+  Russian Federation
+160 мс
+HTTP	Высокая	4 минуты
+198.50.240.26	8080
+  Canada Montréal
+4080 мс
+HTTPS	Высокая	4 минуты
+125.141.200.55	80
+  Korea
+5100 мс
+HTTPS	Высокая	4 минуты
+202.69.40.173	8080
+  Pakistan
+1040 мс
+HTTPS	Высокая	4 минуты
+177.67.86.120	3128
+  Brazil Franca
+1160 мс
+HTTP, HTTPS	Средняя	4 минуты
+138.68.120.201	1080
+  United States New York
+440 мс
+SOCKS5	Высокая	4 минуты
+192.95.55.60	3128
+  Canada Montréal
+3480 мс
+HTTPS	Высокая	4 минуты
+177.67.82.116	3128
+  Brazil Franca
+2660 мс
+HTTPS	Высокая	4 минуты
+192.95.4.14	80
+  Canada Montréal
+3820 мс
+HTTP, HTTPS	Средняя	4 минуты
+198.50.240.18	8799
+  Canada Montréal
+1880 мс
+HTTPS	Высокая	4 минуты
+198.50.240.18	3128
+  Canada Montréal
+2860 мс
+HTTPS	Высокая	4 минуты
+200.229.193.112	3128
+  Brazil
+2700 мс
+HTTPS	Высокая	4 минуты
+94.177.224.118	3128
+  Germany Frankfurt
+1340 мс
+HTTPS	Высокая	4 минуты
+177.67.82.20	8080
+  Brazil Franca
+1940 мс
+HTTP, HTTPS	Средняя	4 минуты
+200.229.195.169	8080
+  Brazil
+1260 мс
+HTTP, HTTPS	Средняя	4 минуты
+125.141.200.21	80
+  Korea
+5100 мс
+HTTPS	Высокая	4 минуты
+109.69.1.59	1080
+  Albania Tiranë
+480 мс
+SOCKS4	Высокая	4 минуты
+192.99.190.182	8080
+  Canada Montréal
+700 мс
+HTTP	Средняя	4 минуты
+185.22.172.196	3128
+  Russian Federation
+240 мс
+HTTP	Средняя	4 минуты
+144.217.248.180	80
+  Canada Beauharnois
+2960 мс
+HTTP, HTTPS	Высокая	4 минуты
+192.99.80.176	3128
+  Canada Montréal
+1040 мс
+HTTPS	Высокая	4 минуты
+177.67.86.124	3128
+  Brazil Franca
+1180 мс
+HTTP, HTTPS	Средняя	4 минуты
+198.50.240.23	1096
+  Canada Montréal
+4900 мс
+SOCKS4	Высокая	4 минуты
+138.201.187.59	80
+  Germany
+340 мс
+HTTPS	Высокая	4 минуты
+177.67.81.97	3128
+  Brazil Franca
+1800 мс
+HTTP, HTTPS	Средняя	4 минуты
+85.26.146.169	80
+  Russian Federation Moscow
+120 мс
+HTTP	Высокая	4 минуты
+201.16.140.120	80
+  Brazil
+1540 мс
+HTTP, HTTPS	Средняя	4 минуты
+144.217.16.78	8799
+  Canada Beauharnois
+1540 мс
+HTTP, HTTPS	Средняя	4 минуты
+144.217.16.78	8080
+  Canada Beauharnois
+1520 мс
+HTTP, HTTPS	Средняя	4 минуты
+177.67.81.69	8080
+  Brazil Franca
+1300 мс
+HTTP, HTTPS	Средняя	4 минуты
+144.217.31.225	80
+  Canada Beauharnois
+1220 мс
+HTTP, HTTPS	Средняя	4 минуты
+173.254.203.211	1080
+  United States Los Angeles
+1460 мс
+HTTP	Высокая	4 минуты
+198.50.240.23	8080
+  Canada Montréal
+1060 мс
+HTTP, HTTPS	Средняя	4 минуты
+47.88.84.111	3128
+  United States San Mateo
+1000 мс
+HTTPS	Высокая	4 минуты
+5.2.69.132	1080
+  Netherlands
+800 мс
+HTTP	Высокая	4 минуты
+119.81.71.27	80
+  Singapore Singapore
+1020 мс
+HTTP, HTTPS	Высокая	4 минуты
+67.205.159.165	3128
+  United States New York
+700 мс
+HTTP, HTTPS	Средняя	4 минуты
+75.114.77.34	8080
+  United States Tampa
+860 мс
+HTTPS	Высокая	4 минуты
+173.254.203.220	1080
+  United States Los Angeles
+960 мс
+HTTP	Высокая	4 минуты
+149.56.226.28	80
+  Canada Montréal
+800 мс
+HTTP, HTTPS	Средняя	4 минуты
+144.217.31.225	8080
+  Canada Beauharnois
+800 мс
+HTTP, HTTPS	Средняя	4 минуты
+167.114.17.152	8080
+  Canada Montréal
+740 мс
+HTTP, HTTPS	Средняя	4 минуты
+5.2.69.103	1080
+  Netherlands
+380 мс
+HTTP	Высокая	4 минуты
+125.141.200.22	80
+  Korea
+5100 мс
+HTTPS	Высокая	4 минуты
+134.213.158.212	4444
+  United Kingdom
+360 мс
+HTTPS	Высокая	4 минуты
+5.2.69.102	1080
+  Netherlands
+380 мс
+HTTP	Высокая	4 минуты
+138.197.148.203	3128
+  Canada Toronto
+780 мс
+HTTP	Средняя	4 минуты
+134.213.29.202	3124
+  United Kingdom
+360 мс
+HTTPS	Высокая	4 минуты
+134.213.221.181	4444
+  United Kingdom London
+360 мс
+HTTPS	Высокая	4 минуты
+103.14.27.58	1080
+  Bangladesh Dhaka
+1280 мс
+SOCKS4	Высокая	4 минуты
+193.193.230.211	1080
+  Kazakstan
+380 мс
+SOCKS4	Высокая	4 минуты
+77.73.65.155	8080
+  Russian Federation
+240 мс
+HTTP, HTTPS	Средняя	4 минуты
+125.141.200.26	80
+  Korea
+5100 мс
+HTTPS	Высокая	4 минуты
+47.90.89.34	1080
+  Hong Kong
+1940 мс
+SOCKS5	Высокая	4 минуты
+125.141.200.54	80
+  Korea
+5100 мс
+HTTPS	Высокая	4 минуты
+36.66.213.167	1080
+  Indonesia
+3320 мс
+SOCKS4	Высокая	4 минуты
+223.25.99.163	1180
+  Indonesia Surabaya
+2200 мс
+SOCKS4	Высокая	4 минуты
+103.75.117.187	8080
+  Hong Kong Hong Kong
+1620 мс
+HTTP	Средняя	4 минуты
+180.211.193.190	1080
+  Bangladesh Dhaka
+2200 мс
+SOCKS4	Высокая	4 минуты
+69.85.86.80	8080
+  United States Los Angeles
+940 мс
+HTTP	Средняя	4 минуты
+118.99.178.21	8080
+  Taiwan Taipei
+5060 мс
+HTTP	Высокая	4 минуты
+173.212.136.237	80
+  Canada Thornhill
+920 мс
+HTTP	Высокая	5 минут
+159.203.8.92	1080
+  Canada Toronto
+960 мс
+SOCKS5	Высокая	5 минут
+138.197.227.105	1080
+  United States New York
+820 мс
+SOCKS5	Высокая	5 минут
+159.203.152.83	1080
+  United States New York
+860 мс
+SOCKS5	Высокая	5 минут
+79.140.221.254	1080
+  Ireland Limerick
+500 мс
+SOCKS4	Высокая	5 минут
+77.222.139.57	1080
+  Ukraine
+280 мс
+SOCKS4	Высокая	5 минут
+88.198.24.108	1080
+  Germany Nürnberg
+660 мс
+SOCKS5	Высокая	5 минут
+52.91.194.35	80
+  United States Ashburn
+720 мс
+HTTP	Высокая	5 минут
+94.230.246.33	1080
+  Russian Federation Kyzyl
+480 мс
+SOCKS4	Высокая	5 минут
+88.119.137.155	1080
+  Lithuania Klaipeda
+420 мс
+SOCKS4	Высокая	5 минут
+103.54.218.68	1080
+  Indonesia Jakarta
+2180 мс
+SOCKS4	Высокая	5 минут
+168.128.29.75	80
+  United States
+5100 мс
+HTTP	Высокая	6 минут
+35.165.73.240	80
+  United States Boardman
+5100 мс
+HTTP	Высокая	6 минут
+58.176.46.248	8380
+  Hong Kong Central District
+1520 мс
+HTTP	Высокая	6 минут
+149.56.147.46	8080
+  Canada Montréal
+2540 мс
+HTTPS	Высокая	44 минуты
+74.84.131.34	80
+  United States
+3600 мс
+HTTP	Высокая	1 ч. 4 мин.
+192.99.80.176	8080
+  Canada Montréal
+5100 мс
+HTTPS	Высокая	1 ч. 6 мин.
+149.56.140.221	3128
+  Canada Montréal
+760 мс
+HTTPS	Высокая	1 ч. 8 мин.
+94.79.182.109	80
+  Germany Remscheid
+400 мс
+HTTP	Высокая	1 ч. 17 мин.
+177.23.184.51	3128
+  Brazil
+4940 мс
+HTTPS	Высокая	1 ч. 34 мин.
+77.120.224.86	9999
+  Ukraine Kirovograd
+540 мс
+SOCKS4	Высокая	1 ч. 42 мин.
+144.217.16.78	8080
+  Canada Beauharnois
+3940 мс
+HTTP, HTTPS	Средняя	1 ч. 44 мин.
+144.217.16.78	3128
+  Canada Beauharnois
+1280 мс
+HTTP, HTTPS	Средняя	2 ч. 12 мин.
+88.119.137.155	1080
+  Lithuania Klaipeda
+1360 мс
+SOCKS4	Высокая	2 ч. 16 мин.
+194.143.137.129	53281
+  Ukraine
+2900 мс
+HTTP	Высокая	2 ч. 23 мин.
+158.69.11.198	80
+  Canada Montréal
+5100 мс
+HTTPS	Высокая	2 ч. 39 мин.
+158.69.11.198	8080
+  Canada Montréal
+4500 мс
+HTTPS	Высокая	2 ч. 39 мин.
+158.69.11.198	3128
+  Canada Montréal
+4480 мс
+HTTPS	Высокая	2 ч. 40 мин.

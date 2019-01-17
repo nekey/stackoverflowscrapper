@@ -1,0 +1,199 @@
+34.249.20.9	3128	HTTP	Anonymous	United States Proxy United States	Texas	Houston	75.0%
+188.195.242.239	80	HTTP	Anonymous	Germany Proxy Germany	Bayern	Kulmbach	53.4%
+82.223.75.188	80	HTTP	High Anonymous	Spain Proxy Spain	Madrid	Madrid	19.8%
+41.65.31.115	3128	HTTPS	Anonymous	Egypt Proxy Egypt			82.6%
+124.88.67.54	80	HTTP	Anonymous	China Proxy China			54.4%
+58.176.46.248	8380	HTTP	Anonymous	Hong Kong Proxy Hong Kong		Tuen Mun	72.2%
+47.91.154.245	8080	HTTP	High Anonymous	Canada Proxy Canada	Ontario	Ottawa	78.9%
+190.153.210.237	80	HTTPS	Anonymous	Chile Proxy Chile			81.4%
+210.140.46.136	8888	HTTPS	High Anonymous	Japan Proxy Japan			74.8%
+138.197.154.98	80	HTTP	High Anonymous	United States Proxy United States	Delaware	Wilmington	52.9%
+190.248.128.122	3128	HTTPS	Anonymous	Colombia Proxy Colombia	Antioquia	Bello	95.4%
+94.23.157.1	8080	HTTP	High Anonymous	United Kingdom Proxy United Kingdom			19.9%
+101.53.101.172	9999	HTTP	High Anonymous	China Proxy China			63.8%
+187.217.189.229	8081	HTTP	Anonymous	Mexico Proxy Mexico			23.0%
+210.140.43.31	8888	HTTPS	High Anonymous	Japan Proxy Japan			77.6%
+78.47.27.99	3128	HTTPS	Anonymous	Germany Proxy Germany			35.4%
+210.38.1.132	8080	HTTP	Anonymous	China Proxy China	Guangdong	Guangzhou	94.4%
+212.126.113.179	80	HTTP	High Anonymous	Iraq Proxy Iraq			88.4%
+117.239.66.73	80	HTTP	High Anonymous	India Proxy India	Tamil Nadu	Madras	59.8%
+85.152.18.193	8080	HTTP	High Anonymous	Spain Proxy Spain	Asturias	Oviedo	65.9%
+81.23.0.41	3129	HTTP	Anonymous	Russia Proxy Russia			65.3%
+61.7.228.51	8080	HTTP	High Anonymous	Thailand Proxy Thailand	Krung Thep	Bangkok	81.7%
+200.229.202.72	8080	HTTP	Anonymous	Brazil Proxy Brazil			91.5%
+125.31.19.27	80	HTTPS	Anonymous	Macao Proxy Macao	Ilhas	Macau	69.8%
+31.3.145.189	80	HTTP	Anonymous	Germany Proxy Germany			58.5%
+112.214.73.253	80	HTTP	Anonymous	Korea Proxy Korea			63.6%
+211.79.61.8	3128	HTTPS	Anonymous	Taiwan Proxy Taiwan	T'ai-wan	Hsinchu	98.7%
+87.245.154.66	80	HTTPS	High Anonymous	Russia Proxy Russia	Novgorod	Kam	80.9%
+178.32.213.128	80	HTTP	High Anonymous	France Proxy France			59.5%
+202.73.51.150	80	HTTPS	Anonymous	Singapore Proxy Singapore		Singapore	38.5%
+67.231.241.6	8081	HTTP	Anonymous	United States Proxy United States	New York	Albany	80.5%
+94.79.182.109	80	HTTP	High Anonymous	Germany Proxy Germany	Hessen	Frankfurt Am Main	97.8%
+117.120.7.93	8080	HTTP	Anonymous	Singapore Proxy Singapore		Singapore	56.0%
+210.38.1.131	8080	HTTP	Anonymous	China Proxy China	Guangdong	Guangzhou	97.1%
+178.62.193.19	8080	HTTP	Anonymous	Russia Proxy Russia			0.8%
+82.224.48.173	80	HTTP	High Anonymous	France Proxy France	Ile-de-France	Villejuif	46.8%
+177.71.56.176	8080	HTTP	High Anonymous	Brazil Proxy Brazil			46.6%
+187.120.145.3	8080	HTTP	High Anonymous	Brazil Proxy Brazil			24.2%
+138.197.148.203	3128	HTTP	Anonymous	United States Proxy United States	Delaware	Wilmington	66.4%
+47.89.41.164	80	HTTP	Anonymous	Canada Proxy Canada	Ontario	Ottawa	94.3%
+210.140.40.187	8888	HTTPS	High Anonymous	Japan Proxy Japan			78.0%
+14.152.93.79	8080	HTTP	High Anonymous	China Proxy China	Guangdong	Guangzhou	58.3%
+195.140.253.65	3128	HTTP	Anonymous	Czech Proxy Czech			55.0%
+124.42.7.103	80	HTTP	Anonymous	China Proxy China	Hebei	Langfang	58.0%
+212.106.138.171	3128	HTTPS	Anonymous	Poland Proxy Poland			58.2%
+189.17.127.168	80	HTTP	Anonymous	Brazil Proxy Brazil			59.3%
+144.217.115.70	8080	HTTP	Anonymous	United States Proxy United States	California	Sacramento	57.3%
+125.88.74.122	83	HTTP	Anonymous	China Proxy China	Guangdong	Guangzhou	84.0%
+88.191.174.188	80	HTTP	High Anonymous	France Proxy France	Ile-de-France	Paris	48.5%
+78.94.131.126	80	HTTP	High Anonymous	Germany Proxy Germany	Nordrhein-Westfalen	Hemer	37.0%
+213.163.181.33	80	HTTP	High Anonymous	France Proxy France			47.3%
+210.140.42.31	8888	HTTPS	High Anonymous	Japan Proxy Japan			80.1%
+181.28.30.111	80	HTTP	High Anonymous	Argentina Proxy Argentina			56.1%
+66.175.83.156	8080	HTTP	High Anonymous	United States Proxy United States	Hawaii	Honolulu	55.6%
+207.99.118.74	8080	HTTPS	Anonymous	United States Proxy United States	New Jersey	Short Hills	97.2%
+66.82.65.105	87	HTTP	Anonymous	United States Proxy United States			20.6%
+89.163.246.150	8080	HTTPS	Anonymous	Germany Proxy Germany			75.4%
+121.58.216.229	80	HTTP	Anonymous	Philippines Proxy Philippines	Davao City	Pampanga	59.4%
+58.176.46.248	80	HTTP	Anonymous	Hong Kong Proxy Hong Kong		Tuen Mun	72.8%
+161.148.1.94	80	HTTPS	Anonymous	Brazil Proxy Brazil	Distrito Federal	Brasilia	98.6%
+73.226.92.196	8081	HTTPS	Anonymous	United States Proxy United States	New Jersey	Mount Laurel	59.2%
+91.223.34.230	8083	HTTP	Anonymous	Russia Proxy Russia			33.1%
+202.73.51.146	80	HTTPS	Anonymous	Singapore Proxy Singapore		Singapore	39.7%
+124.124.1.178	3128	HTTP	Anonymous	India Proxy India	Maharashtra	Mumbai	77.4%
+47.91.20.110	3128	HTTP	High Anonymous	Canada Proxy Canada	Ontario	Ottawa	40.9%
+40.121.152.63	1080	HTTP	High Anonymous	United States Proxy United States	Indiana	Indianapolis	51.1%
+119.5.0.7	808	HTTPS	Anonymous	China Proxy China	Sichuan	Chengdu	9.1%
+12.129.82.194	8080	HTTPS	Anonymous	United States Proxy United States	Florida	Coral Gables	88.7%
+124.133.230.254	80	HTTP	Anonymous	China Proxy China	Shandong	Jinan	94.0%
+193.58.241.7	80	HTTPS	High Anonymous	Norway Proxy Norway			57.8%
+190.128.162.58	80	HTTPS	Anonymous	Paraguay Proxy Paraguay	Central	Asuncion	62.7%
+190.217.3.162	80	HTTP	Anonymous	Argentina Proxy Argentina			60.2%
+160.16.211.119	80	HTTPS	High Anonymous	Japan Proxy Japan			58.4%
+188.166.158.157	8118	HTTP	High Anonymous	Russia Proxy Russia			10.9%
+46.38.52.36	8081	HTTP	High Anonymous	Russia Proxy Russia			54.4%
+115.254.104.201	8080	HTTP	High Anonymous	India Proxy India	Maharashtra	Mumbai	45.0%
+47.88.149.63	80	HTTP	Anonymous	Canada Proxy Canada	Ontario	Ottawa	92.6%
+88.247.45.164	8080	HTTP	Anonymous	Turkey Proxy Turkey	Kastamonu	Kastamonu	44.7%
+178.161.149.18	3128	HTTP	Anonymous	Russia Proxy Russia	Novosibirsk	Saturn	65.4%
+78.47.27.101	3128	HTTP	Anonymous	Germany Proxy Germany			42.9%
+185.12.15.122	9091	HTTP	High Anonymous	Europe Proxy Europe			16.0%
+219.127.253.43	80	HTTP	High Anonymous	Japan Proxy Japan			59.7%
+200.89.64.148	80	HTTP	High Anonymous	Chile Proxy Chile	Region Metropolitana	Santiago	62.3%
+59.37.160.57	8081	HTTP	High Anonymous	China Proxy China	Guangdong	Jiangmen	53.8%
+88.99.34.20	8080	HTTP	Anonymous	United Kingdom Proxy United Kingdom			98.4%
+62.2.150.10	80	HTTP	High Anonymous	Switzerland Proxy Switzerland			52.8%
+159.203.48.216	80	HTTP	High Anonymous	United States Proxy United States	Michigan	Auburn Hills	34.5%
+12.129.82.15	8080	HTTPS	Anonymous	United States Proxy United States	Florida	Coral Gables	99.3%
+210.140.46.147	8888	HTTPS	High Anonymous	Japan Proxy Japan			82.6%
+83.239.58.162	8080	HTTPS	High Anonymous	Russia Proxy Russia	Krasnodar	Krasnodar	91.1%
+77.57.146.100	80	HTTP	Anonymous	Switzerland Proxy Switzerland	Zurich	Zurich	35.3%
+175.182.64.89	80	HTTP	Anonymous	Taiwan Proxy Taiwan			70.6%
+113.252.159.5	8380	HTTP	Anonymous	Hong Kong Proxy Hong Kong		Kowloon	63.5%
+137.74.168.192	80	HTTP	High Anonymous	Canada Proxy Canada	Quebec	Lachine	51.4%
+58.97.81.11	80	HTTPS	Anonymous	Thailand Proxy Thailand			76.1%
+190.153.210.248	80	HTTP	Anonymous	Chile Proxy Chile			81.6%
+62.45.225.201	80	HTTP	High Anonymous	Netherlands Proxy Netherlands	Zuid-Holland	Naaldwijk	38.4%
+150.161.21.38	8080	HTTPS	High Anonymous	Brazil Proxy Brazil	Pernambuco	Recife	27.1%
+120.52.73.173	8080	HTTP	Anonymous	China Proxy China	Beijing	Beijing	83.3%
+138.197.12.113	80	HTTP	High Anonymous	United States Proxy United States	Delaware	Wilmington	58.8%
+202.73.51.150	80	HTTPS	Anonymous	Singapore Proxy Singapore		Singapore	38.5%
+210.140.43.144	8888	HTTPS	High Anonymous	Japan Proxy Japan			72.4%
+212.232.52.113	80	HTTPS	Anonymous	Russia Proxy Russia			58.9%
+46.218.85.101	3129	HTTPS	Anonymous	France Proxy France			38.5%
+160.16.211.119	80	HTTPS	High Anonymous	Japan Proxy Japan			58.4%
+210.140.42.31	8888	HTTPS	High Anonymous	Japan Proxy Japan			80.1%
+115.254.104.201	8080	HTTP	High Anonymous	India Proxy India	Maharashtra	Mumbai	45.0%
+188.195.242.239	80	HTTP	Anonymous	Germany Proxy Germany	Bayern	Kulmbach	53.4%
+210.140.41.28	8888	HTTPS	High Anonymous	Japan Proxy Japan			77.4%
+77.57.146.100	80	HTTP	Anonymous	Switzerland Proxy Switzerland	Zurich	Zurich	35.3%
+210.38.1.132	8080	HTTP	Anonymous	China Proxy China	Guangdong	Guangzhou	94.4%
+73.226.92.196	8081	HTTPS	Anonymous	United States Proxy United States	New Jersey	Mount Laurel	59.2%
+72.169.200.77	87	HTTP	High Anonymous	United States Proxy United States			24.5%
+138.197.154.98	80	HTTP	High Anonymous	United States Proxy United States	Delaware	Wilmington	52.9%
+187.141.231.36	8080	HTTPS	Anonymous	Mexico Proxy Mexico			97.7%
+159.203.48.216	80	HTTP	High Anonymous	United States Proxy United States	Michigan	Auburn Hills	34.5%
+86.208.5.79	80	HTTP	High Anonymous	France Proxy France	Nord-Pas-de-Calais	Bourbourg	55.5%
+210.140.46.151	8888	HTTPS	High Anonymous	Japan Proxy Japan			79.9%
+78.47.27.101	3128	HTTP	Anonymous	Germany Proxy Germany			42.9%
+88.247.45.164	8080	HTTP	Anonymous	Turkey Proxy Turkey	Kastamonu	Kastamonu	44.7%
+109.234.36.17	80	HTTP	High Anonymous	Russia Proxy Russia			54.4%
+119.81.123.218	80	HTTP	High Anonymous	China Proxy China	Hebei	Langfang	63.9%
+219.127.253.43	80	HTTP	High Anonymous	Japan Proxy Japan			59.7%
+138.197.148.203	8080	HTTP	Anonymous	United States Proxy United States	Delaware	Wilmington	69.0%
+223.197.56.102	80	HTTP	Anonymous	Hong Kong Proxy Hong Kong			49.3%
+190.153.210.237	80	HTTPS	Anonymous	Chile Proxy Chile			81.4%
+210.38.1.131	80	HTTP	Anonymous	China Proxy China	Guangdong	Guangzhou	98.0%
+195.176.73.42	80	HTTP	High Anonymous	Switzerland Proxy Switzerland			46.5%
+58.176.46.248	80	HTTP	Anonymous	Hong Kong Proxy Hong Kong		Tuen Mun	72.8%
+122.228.179.178	80	HTTPS	High Anonymous	China Proxy China	Beijing	Beijing	43.1%
+210.140.46.199	8888	HTTPS	High Anonymous	Japan Proxy Japan			72.5%
+91.223.34.230	8083	HTTP	Anonymous	Russia Proxy Russia			33.1%
+46.38.52.36	8081	HTTP	High Anonymous	Russia Proxy Russia			54.4%
+12.129.82.194	8080	HTTPS	Anonymous	United States Proxy United States	Florida	Coral Gables	88.7%
+124.42.7.103	80	HTTP	Anonymous	China Proxy China	Hebei	Langfang	58.0%
+187.16.2.160	8080	HTTP	High Anonymous	Brazil Proxy Brazil			93.5%
+194.143.137.129	53281	HTTP	High Anonymous	Ukraine Proxy Ukraine			43.8%
+94.23.157.1	8080	HTTP	High Anonymous	United Kingdom Proxy United Kingdom			19.9%
+87.245.154.66	80	HTTPS	High Anonymous	Russia Proxy Russia	Novgorod	Kam	80.9%
+138.197.148.203	3128	HTTP	Anonymous	United States Proxy United States	Delaware	Wilmington	66.4%
+62.76.114.158	80	HTTP	Anonymous	Russia Proxy Russia			59.0%
+119.5.0.7	808	HTTPS	Anonymous	China Proxy China	Sichuan	Chengdu	9.1%
+200.229.202.72	8080	HTTP	Anonymous	Brazil Proxy Brazil			91.5%
+31.3.145.189	80	HTTP	Anonymous	Germany Proxy Germany			58.5%
+80.237.93.30	3128	HTTPS	High Anonymous	Russia Proxy Russia			35.5%
+58.176.46.248	8380	HTTP	Anonymous	Hong Kong Proxy Hong Kong		Tuen Mun	72.2%
+117.120.7.93	8080	HTTP	Anonymous	Singapore Proxy Singapore		Singapore	56.0%
+124.133.230.254	80	HTTP	Anonymous	China Proxy China	Shandong	Jinan	94.0%
+200.229.202.72	3128	HTTP	Anonymous	Brazil Proxy Brazil			91.8%
+207.99.118.74	8080	HTTPS	Anonymous	United States Proxy United States	New Jersey	Short Hills	97.2%
+58.9.99.41	3128	HTTP	Anonymous	Thailand Proxy Thailand	Samut Sakhon	Krathum Baen	74.7%
+113.252.159.5	80	HTTP	High Anonymous	Hong Kong Proxy Hong Kong		Kowloon	58.7%
+190.128.162.58	80	HTTPS	Anonymous	Paraguay Proxy Paraguay	Central	Asuncion	62.7%
+190.153.210.248	80	HTTP	Anonymous	Chile Proxy Chile			81.6%
+121.40.108.76	80	HTTP	Anonymous	China Proxy China	Jiangsu	Zhaoyang	56.7%
+212.126.113.179	80	HTTP	High Anonymous	Iraq Proxy Iraq			88.4%
+125.31.19.27	80	HTTPS	Anonymous	Macao Proxy Macao	Ilhas	Macau	69.8%
+119.194.30.183	80	HTTPS	Anonymous	Korea Proxy Korea	Kyonggi-do	Suwon	52.1%
+138.68.163.109	8118	HTTP	High Anonymous	United States Proxy United States	Delaware	Wilmington	25.5%
+94.79.182.109	80	HTTP	High Anonymous	Germany Proxy Germany	Hessen	Frankfurt Am Main	97.8%
+91.126.104.203	80	HTTP	High Anonymous	Spain Proxy Spain			46.9%
+82.223.75.188	80	HTTP	High Anonymous	Spain Proxy Spain	Madrid	Madrid	19.9%
+210.38.1.130	80	HTTP	Anonymous	China Proxy China	Guangdong	Guangzhou	96.3%
+78.47.27.98	3128	HTTPS	Anonymous	Germany Proxy Germany			36.1%
+47.91.154.245	8080	HTTP	High Anonymous	Canada Proxy Canada	Ontario	Ottawa	78.9%
+178.62.193.19	8080	HTTP	Anonymous	Russia Proxy Russia			0.8%
+210.140.46.136	8888	HTTPS	High Anonymous	Japan Proxy Japan			74.8%
+85.152.18.193	8080	HTTP	High Anonymous	Spain Proxy Spain	Asturias	Oviedo	65.9%
+93.51.247.104	80	HTTP	High Anonymous	Italy Proxy Italy	Piemonte	Costigliole D'asti	32.6%
+81.167.176.147	80	HTTP	Anonymous	Norway Proxy Norway	Telemark	Kragero	69.8%
+62.210.51.150	80	HTTP	High Anonymous	France Proxy France			55.2%
+118.178.227.171	80	HTTP	High Anonymous	China Proxy China	Guangdong	Guangzhou	60.3%
+210.140.45.76	8888	HTTPS	High Anonymous	Japan Proxy Japan			80.2%
+52.232.77.228	80	HTTP	High Anonymous	United States Proxy United States	Delaware	Wilmington	51.8%
+189.17.127.168	80	HTTP	Anonymous	Brazil Proxy Brazil			59.3%
+210.140.41.129	8888	HTTPS	High Anonymous	Japan Proxy Japan			78.8%
+169.44.171.88	80	HTTP	High Anonymous	Switzerland Proxy Switzerland			64.4%
+66.82.65.105	87	HTTP	Anonymous	United States Proxy United States			20.6%
+117.5.203.189	80	HTTP	Anonymous	Viet Nam Proxy Viet Nam	Dac Lac	Hanoi	55.7%
+210.140.46.214	8888	HTTPS	High Anonymous	Japan Proxy Japan			78.1%
+210.38.1.143	8080	HTTP	Anonymous	China Proxy China	Guangdong	Guangzhou	95.2%
+40.121.152.63	1080	HTTP	High Anonymous	United States Proxy United States	Indiana	Indianapolis	51.1%
+34.249.20.9	3128	HTTP	Anonymous	United States Proxy United States	Texas	Houston	75.0%
+81.23.0.41	3129	HTTP	Anonymous	Russia Proxy Russia			65.3%
+202.56.203.40	80	HTTP	High Anonymous	India Proxy India	Maharashtra	Pune	58.4%
+88.99.34.20	8080	HTTP	Anonymous	United Kingdom Proxy United Kingdom			98.4%
+78.47.27.99	3128	HTTPS	Anonymous	Germany Proxy Germany			35.4%
+210.140.40.192	8888	HTTP	High Anonymous	Japan Proxy Japan			78.9%
+173.71.120.115	80	HTTP	High Anonymous	United States Proxy United States	New Jersey	Haddon Heights	76.0%
+120.92.236.115	80	HTTP	Anonymous	China Proxy China	Beijing	Beijing	76.2%
+112.214.73.253	80	HTTP	Anonymous	Korea Proxy Korea			63.6%
+101.53.101.172	9999	HTTP	High Anonymous	China Proxy China			63.8%
+187.84.34.42	8080	HTTP	High Anonymous	Brazil Proxy Brazil			21.8%
+210.140.46.147	8888	HTTPS	High Anonymous	Japan Proxy Japan			82.6%
+210.38.1.131	8080	HTTP	Anonymous	China Proxy China	Guangdong	Guangzhou	97.1%
+177.71.56.176	8080	HTTP	High Anonymous	Brazil Proxy Brazil			46.6%
+178.32.218.91	80	HTTP	High Anonymous	France Proxy France			28.2%
+41.242.93.9	8080	HTTP	High Anonymous	South Africa Proxy South Africa	Gauteng	Boksburg	34.5%
+47.91.46.46	3128	HTTPS	High Anonymous	Canada Proxy Canada	Ontario	Ottawa	32.9%

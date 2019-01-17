@@ -1,0 +1,78 @@
+1min	186.95.237.4	8080	 flag  Venezuela
+HTTP	High
+2mins	46.151.209.192	8080	 flag  Saudi Arabia
+HTTP	High +KA
+6mins	120.52.73.173	8080	 flag  China
+HTTP	High +KA
+6mins	120.52.73.173	80	 flag  China
+HTTP	High +KA
+12mins	97.77.104.22	80	 flag  USA
+HTTP	High
+27mins	97.77.104.22	3128	 flag  USA
+HTTP	High
+31mins	61.5.207.102	80	 flag  Afghanistan
+HTTP	High +KA
+39mins	186.14.142.102	8080	 flag  Venezuela
+HTTP	High
+45mins	183.78.183.156	82	 flag  China
+HTTP	High +KA
+1h 51mins	61.135.217.3	80	 flag  China
+HTTP	High +KA
+1h 59mins	190.199.44.166	8080	 flag  Venezuela
+HTTP	High
+3h 24mins	190.37.77.64	8080	 flag  Venezuela
+HTTP	High
+6h 52mins	218.76.106.78	3128	 flag  China
+HTTP	High +KA
+7h 31mins	200.35.153.195	8080	 flag  Uruguay
+HTTP	High +KA
+7h 53mins	203.70.11.186	80	 flag  Taiwan
+HTTP	High
+8h 6mins	123.84.13.240	8118	 flag  China
+HTTP	High +KA
+8h 34mins	201.248.28.103	8080	 flag  Venezuela
+HTTP	High
+10h 39mins	121.199.38.96	8081	 flag  China
+HTTP	High +KA
+10h 53mins	149.202.34.104	3128	 flag  Germany
+HTTP	High
+11h 36mins	124.133.230.254	80	 flag  China
+HTTP	High +KA
+15h 48mins	115.223.210.100	8118	 flag  China
+HTTP	High +KA
+15h 54mins	223.19.212.30	80	 flag  Hong Kong
+HTTP	High +KA
+15h 59mins	113.252.236.96	8080	 flag  Hong Kong
+HTTP	High +KA
+16h 6mins	202.159.42.246	80	 flag  Indonesia
+HTTP	High
+16h 21mins	43.240.138.31	8080	 flag  Japan
+HTTP	High +KA
+17h 3mins	113.255.49.49	80	 flag  Hong Kong
+HTTP	High +KA
+17h 51mins	190.37.37.174	8080	 flag  Venezuela
+HTTP	High
+18h 30mins	190.38.54.107	8080	 flag  Venezuela
+HTTP	High
+19h 18mins	190.207.202.41	8080	 flag  Venezuela
+HTTP	High
+20h 28mins	190.79.249.177	8080	 flag  Venezuela
+HTTP	High
+20h 28mins	69.242.0.187	8118	 flag  USA
+HTTP	High +KA
+20h 29mins	58.176.46.248	80	 flag  Hong Kong
+HTTP	High +KA
+20h 36mins	187.33.229.99	8080	 flag  Brazil
+HTTP	High
+20h 45mins	222.169.193.162	8099	 flag  China
+HTTP	High +KA
+22h 1min	211.141.64.50	80	 flag  China
+HTTP	High
+22h 9mins	190.205.198.120	8080	 flag  Venezuela
+HTTP	High
+23h 39mins	190.38.179.210	8080	 flag  Venezuela
+HTTP	High
+23h 40mins	200.84.49.115	8080	 flag  Venezuela
+HTTP	High
+23h 53mins	86.99.213.200	8118	 flag  UAE
+HTTP	High
